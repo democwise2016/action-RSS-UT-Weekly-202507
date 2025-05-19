@@ -6,7 +6,13 @@ let feedList = [
     title: '3C 達人廖阿輝',
     feedID: 'ahui3c',
     homepageURL: 'https://www.youtube.com/channel/UCRYqahgE21gr3N-TPXjXhLQ',
-    // itemFilters: ItemFiltersPreset.between3minTo30Min,
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: 'Lice萊斯 玩 遊戲',
+    feedID: 'LiceMoo',
+    homepageURL: 'https://www.youtube.com/channel/UC9WiXJEyHMGRqL-__3FIBEw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   
 
