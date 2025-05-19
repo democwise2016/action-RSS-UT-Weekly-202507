@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>action-RSS-UT-Weekly-202507</title>
+  <script>
+  function copyPlainString (text) {
+    if (!navigator.clipboard) {
+      this.fallbackCopyTextToClipboard(text);
+      return;
+    }
+    navigator.clipboard.writeText(text).then(function () {
+      //console.log('Async: Copying to clipboard was successful!');
+    }, function (err) {
+      //console.error('Async: Could not copy text: ', err);
+    });
+  }
+  </script>
+</head>
+<body>
+<ol>
+<li>
+      <button type="button" style="font-size: 3rem" onclick="copyPlainString('https://democwise2016.github.io/action-RSS-UT-Weekly-202507/ahui3c-ch_UCRYqahgE21gr3N-TPXjXhLQ.rss');this.style.color='red';">COPY</button>
+      <a href="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/ahui3c-ch_UCRYqahgE21gr3N-TPXjXhLQ.rss" target="_blank">3C 達人廖阿輝</a>
+      (<a href="https://www.youtube.com/channel/UCRYqahgE21gr3N-TPXjXhLQ" target="_blank">source</a>)
+    </li></ol>
+</body>
+</html>
