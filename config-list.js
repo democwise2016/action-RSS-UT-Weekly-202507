@@ -74,8 +74,48 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCt757ZhOr3vrvSxKT96b6vA',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  
+  {
+    title: '苗博雅 臺北百科全書精華',
+    feedID: 'miaopoya-taipei-encyclopedia',
+    homepageURL: 'https://www.youtube.com/@miaopoya/videos',
+    itemFilters: [
+      (item) => { return ((item.title.indexOf('臺北百科全書精華') >-1)) },
+      ItemFiltersPreset.between3minTo30Min,
+    ],
+  },
+  {
+    title: '小白测评 評 3C',
+    feedID: 'XBCP',
+    homepageURL: 'https://www.youtube.com/channel/UCAfjft9lL5fMFf6PEUfksPg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '做衣服 找胖哥 評 衣服',
+    feedID: 'fattymadevan',
+    homepageURL: 'https://www.youtube.com/channel/UCL2ts0EF3hlsyCSX5c_ging',
+    itemFilters: ItemFiltersPreset.between3minTo60Min,
+  },
+  {
+    title: 'jack stone 評 3C',
+    feedID: 'jackstone',
+    homepageURL: 'https://www.youtube.com/channel/UCDD8WJ7Il3zWBgEYBUtc9xQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '阿先說故事',
+    feedID: 'AhFirst666',
+    homepageURL: 'https://www.youtube.com/channel/UCz0V_SLhfJYhRQbVtyjNAOw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '阿肥 評 3C',
+    feedID: 'EXVREAL',
+    homepageURL: 'https://www.youtube.com/channel/UCnkAn2XuC5t6d2CXWJDtr9Q',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
  
-  // ====== 以上 15 個，滿了！！ ========
+  // ====== 以上 16 個，滿了！！ ========
 ]
 
 // 
