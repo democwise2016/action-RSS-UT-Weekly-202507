@@ -47,7 +47,27 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCmoOnxeTHUcUBWFNSUR8HvQ',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '一方通行kuma 聊 動漫',
+    feedID: 'YiFangTongXingKuMa',
+    homepageURL: 'https://www.youtube.com/channel/UCX9wg7Suac05XhI_fKa1VZA',
+    itemFilters: ItemFiltersPreset.between3minTo60Min,
+  },
+  {
+    title: '搞完君2.0 聊 迷因',
+    feedID: 'GWjun2.0',
+    homepageURL: 'https://www.youtube.com/channel/UCwYTuoLZaII23xxAGV2zqcA',
+    itemFilters: ItemFiltersPreset.between1minTo10Min,
+  },
+  {
+    title: 'Kuma桑 聊 動漫',
+    feedID: 'kumasan0720',
+    homepageURL: 'https://www.youtube.com/channel/UC7S_3Gc5_vIpeFmgPG8DhNQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 
+  // ====== 以上 10 個 ========
+ 
   // ====== 以上 15 個，滿了！！ ========
 ]
 
