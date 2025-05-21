@@ -67,6 +67,13 @@ let feedList = [
   },
 
   // ====== 以上 10 個 ========
+
+  {
+    title: '蘋果爹',
+    feedID: 'apple-dad',
+    homepageURL: 'https://www.youtube.com/channel/UCt757ZhOr3vrvSxKT96b6vA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
  
   // ====== 以上 15 個，滿了！！ ========
 ]
