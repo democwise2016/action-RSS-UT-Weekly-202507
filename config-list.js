@@ -108,14 +108,33 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCz0V_SLhfJYhRQbVtyjNAOw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  
+  // ====== 以上 15 個，30個滿 ========
+  
   {
     title: '阿肥 評 3C',
     feedID: 'EXVREAL',
     homepageURL: 'https://www.youtube.com/channel/UCnkAn2XuC5t6d2CXWJDtr9Q',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
- 
-  // ====== 以上 16 個，滿了！！ ========
+  {
+    title: 'FUN 評 3C',
+    feedID: 'FUN-rp3dq',
+    homepageURL: 'https://www.youtube.com/@FUN-rp3dq',
+    itemFilters: ItemFiltersPreset.between3minTo60Min,
+  },
+  {
+    title: 'AKU遊戲窩 玩 遊戲',
+    feedID: 'AKUGAMEChannel',
+    homepageURL: 'https://www.youtube.com/channel/UCC5DpD05rp_TJapb3jDEAmQ',
+    itemFilters: ItemFiltersPreset.between3minTo60Min,
+  },
+  {
+    title: '邦尼幫你 評 3C',
+    feedID: 'isbonny',
+    homepageURL: 'https://www.youtube.com/@isbonny',
+    itemFilters: ItemFiltersPreset.between3minTo60Min,
+  },
 ]
 
 // 
