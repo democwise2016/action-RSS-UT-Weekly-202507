@@ -29,5 +29,133 @@
       <itunes:name><![CDATA[老张是大佬 裝 電腦[YT+]]]></itunes:name>
     </itunes:owner>
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_lLFI1pwSj-Pn9k67nIIUJHwZRvxp_V7mdkfsv6bmNL=s88-c-k-c0x00ffffff-no-rj"/>
-</channel>
+<item>
+      <title><![CDATA[192GB统一内存AI Max+Pro 495迷你工作站铭凡MS-S1 MAX-P495 开个大眼儿]]></title>
+      <link>https://www.youtube.com/watch?v=UW6S69FYgH8</link>
+      <itunes:title><![CDATA[192GB统一内存AI Max+Pro 495迷你工作站铭凡MS-S1 MAX-P495 开个大眼儿]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/UW6S69FYgH8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解配備 <strong>192GB 統一記憶體</strong> 的全球首款 AMD AI Max+ Pro 495 迷你工作站強悍規格與效能突破。</li><li>探索迷你主機在本地端載入並順暢運行 <strong>280B 超大語言模型</strong> 及高精度 AI 文生圖、文生影片的實際表現。</li><li>掌握最新 USB4 v2（雷電 5）擴充介面與雙 10G 網卡等專業級硬體配置細節。</li></ul><hr /><h1>摘要</h1><h2>規格升級與外觀介面</h2><p>作者展示了全球首款搭載 <strong>AMD AI Max+ Pro 495</strong> 處理器的迷你主機。與前代 395 版本相比，該機種處理器基礎與銳頻頻率均提升 0.1GHz，採用 <strong>16 核心 32 執行緒</strong> 與 <strong>8065S 圖形處理單元</strong>。最核心的突破在於最大支援高達 <strong>192GB LPDDR5X 統一記憶體</strong>，頻率達 8533MHz，並可將其中 <strong>160GB 劃分給顯示記憶體</strong>，能流暢載入高達 284B 的大語言模型。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_93.jpg" /></p><h2>介面擴充與效能跑分</h2><p>在硬體配置上，主機延續了優異的介面設計，支援 <strong>USB4 v2（雷電 5）</strong> 介面，可外接高達 80Gbps 頻寬的外接顯卡盒，並配備 <strong>雙 10G 網卡</strong> 與內建電源。在 BIOS 設定中，作者將效能模式調整至最高，功耗（PL2）可手動拉至 160W。實測中魯大師跑分達到 <strong>246 萬分</strong>，而在 Cinebench R23 測試中，多核得分更達到 <strong>38,264 分</strong>，展現出桌上型工作站等級的強悍運算實力。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_186.jpg" /></p><h2>本地 AI 模型部署與實測</h2><p>作者重點測試了該主機在本地端運行 AI 大模型的極限能力。得益於 160GB 的可用顯示記憶體，主機得以在 <strong>ComfyUI</strong> 中以 <strong>BF16 全精度模型</strong> 部署並執行 MiniMax-H3 文生影片任務。在極限測試中，作者成功載入了模型容量達 145.6GB 的 <strong>DeepSeek V4 Flash 256B 大模型</strong>，並以每秒 <strong>10.72 tokens</strong> 的速度穩定輸出；而在測試 <strong>GPT-OSS 120B 模型</strong> 時，生成速度更高達每秒 <strong>49.66 tokens</strong>，為中小企業與高階用戶提供了極具性價比的本地 AI 算力解答。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><p>192GB统一内存AI Max+Pro 495迷你工作站铭凡MS-S1 MAX-P495 开个大眼儿</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/UW6S69FYgH8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解配備 <strong>192GB 統一記憶體</strong> 的全球首款 AMD AI Max+ Pro 495 迷你工作站強悍規格與效能突破。</li><li>探索迷你主機在本地端載入並順暢運行 <strong>280B 超大語言模型</strong> 及高精度 AI 文生圖、文生影片的實際表現。</li><li>掌握最新 USB4 v2（雷電 5）擴充介面與雙 10G 網卡等專業級硬體配置細節。</li></ul><hr /><h1>摘要</h1><h2>規格升級與外觀介面</h2><p>作者展示了全球首款搭載 <strong>AMD AI Max+ Pro 495</strong> 處理器的迷你主機。與前代 395 版本相比，該機種處理器基礎與銳頻頻率均提升 0.1GHz，採用 <strong>16 核心 32 執行緒</strong> 與 <strong>8065S 圖形處理單元</strong>。最核心的突破在於最大支援高達 <strong>192GB LPDDR5X 統一記憶體</strong>，頻率達 8533MHz，並可將其中 <strong>160GB 劃分給顯示記憶體</strong>，能流暢載入高達 284B 的大語言模型。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_93.jpg" /></p><h2>介面擴充與效能跑分</h2><p>在硬體配置上，主機延續了優異的介面設計，支援 <strong>USB4 v2（雷電 5）</strong> 介面，可外接高達 80Gbps 頻寬的外接顯卡盒，並配備 <strong>雙 10G 網卡</strong> 與內建電源。在 BIOS 設定中，作者將效能模式調整至最高，功耗（PL2）可手動拉至 160W。實測中魯大師跑分達到 <strong>246 萬分</strong>，而在 Cinebench R23 測試中，多核得分更達到 <strong>38,264 分</strong>，展現出桌上型工作站等級的強悍運算實力。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_186.jpg" /></p><h2>本地 AI 模型部署與實測</h2><p>作者重點測試了該主機在本地端運行 AI 大模型的極限能力。得益於 160GB 的可用顯示記憶體，主機得以在 <strong>ComfyUI</strong> 中以 <strong>BF16 全精度模型</strong> 部署並執行 MiniMax-H3 文生影片任務。在極限測試中，作者成功載入了模型容量達 145.6GB 的 <strong>DeepSeek V4 Flash 256B 大模型</strong>，並以每秒 <strong>10.72 tokens</strong> 的速度穩定輸出；而在測試 <strong>GPT-OSS 120B 模型</strong> 時，生成速度更高達每秒 <strong>49.66 tokens</strong>，為中小企業與高階用戶提供了極具性價比的本地 AI 算力解答。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><p>192GB统一内存AI Max+Pro 495迷你工作站铭凡MS-S1 MAX-P495 开个大眼儿</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/UW6S69FYgH8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解配備 <strong>192GB 統一記憶體</strong> 的全球首款 AMD AI Max+ Pro 495 迷你工作站強悍規格與效能突破。</li><li>探索迷你主機在本地端載入並順暢運行 <strong>280B 超大語言模型</strong> 及高精度 AI 文生圖、文生影片的實際表現。</li><li>掌握最新 USB4 v2（雷電 5）擴充介面與雙 10G 網卡等專業級硬體配置細節。</li></ul><hr /><h1>摘要</h1><h2>規格升級與外觀介面</h2><p>作者展示了全球首款搭載 <strong>AMD AI Max+ Pro 495</strong> 處理器的迷你主機。與前代 395 版本相比，該機種處理器基礎與銳頻頻率均提升 0.1GHz，採用 <strong>16 核心 32 執行緒</strong> 與 <strong>8065S 圖形處理單元</strong>。最核心的突破在於最大支援高達 <strong>192GB LPDDR5X 統一記憶體</strong>，頻率達 8533MHz，並可將其中 <strong>160GB 劃分給顯示記憶體</strong>，能流暢載入高達 284B 的大語言模型。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_93.jpg" /></p><h2>介面擴充與效能跑分</h2><p>在硬體配置上，主機延續了優異的介面設計，支援 <strong>USB4 v2（雷電 5）</strong> 介面，可外接高達 80Gbps 頻寬的外接顯卡盒，並配備 <strong>雙 10G 網卡</strong> 與內建電源。在 BIOS 設定中，作者將效能模式調整至最高，功耗（PL2）可手動拉至 160W。實測中魯大師跑分達到 <strong>246 萬分</strong>，而在 Cinebench R23 測試中，多核得分更達到 <strong>38,264 分</strong>，展現出桌上型工作站等級的強悍運算實力。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_186.jpg" /></p><h2>本地 AI 模型部署與實測</h2><p>作者重點測試了該主機在本地端運行 AI 大模型的極限能力。得益於 160GB 的可用顯示記憶體，主機得以在 <strong>ComfyUI</strong> 中以 <strong>BF16 全精度模型</strong> 部署並執行 MiniMax-H3 文生影片任務。在極限測試中，作者成功載入了模型容量達 145.6GB 的 <strong>DeepSeek V4 Flash 256B 大模型</strong>，並以每秒 <strong>10.72 tokens</strong> 的速度穩定輸出；而在測試 <strong>GPT-OSS 120B 模型</strong> 時，生成速度更高達每秒 <strong>49.66 tokens</strong>，為中小企業與高階用戶提供了極具性價比的本地 AI 算力解答。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><p>192GB统一内存AI Max+Pro 495迷你工作站铭凡MS-S1 MAX-P495 开个大眼儿</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/UW6S69FYgH8/hqdefault.jpg"/>
+      <pubDate>2026-09-28T04:30:18.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[478捡垃圾双万兆+NVME+3盘NAS 却无显卡能玩飞牛？]]></title>
+      <link>https://www.youtube.com/watch?v=B3TB_3Dmn1A</link>
+      <itunes:title><![CDATA[478捡垃圾双万兆+NVME+3盘NAS 却无显卡能玩飞牛？]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/B3TB_3Dmn1A/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=B3TB_3Dmn1A">https://www.youtube.com/watch?v=B3TB_3Dmn1A</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解低成本二手企業級 NAS 設備（IO DATA 3盤位）的硬件架構與性價比。</li><li>實測無內顯 CPU（Intel Atom C3538）在飛牛系統（fnOS）下的相容性與影片、相片 AI 運算表現。</li><li>警示性的硬件電源測試翻車現場，提示玩家在改裝與測試電源時的注意事項。</li></ul><hr /><h1>摘要</h1><h2>開箱與硬件架構解析</h2><p>作者開箱介紹了一款價格約 478 元人民幣的 <strong>IO DATA 3盤位 NAS</strong>。這台設備採用了企業級的 <strong>Intel Atom C3538 四核心處理器</strong>，專為交換機與萬兆路由器設計。硬件配備相當亮眼，包含<strong>雙萬兆電口（10GbE）</strong>、四個 USB 3.1 接口、獨立硬碟背板以及可擴充的 PCIe 插槽。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/B3TB_3Dmn1A_105.jpg" /></p><h2>內部結構與擴充性檢查</h2><p>作者進一步拆解機身，發現機殼內部配備了方便拆洗的防塵網與易於更換的 8cm 風扇。主板上內置了 <strong>NVMe M.2 插槽</strong>、4GB DDR4 記憶體，以及預留的內部 USB 引導接口。然而，Atom C3538 處理器<strong>缺乏整合式顯示晶片（無內顯）</strong>，因此作者決定測試其在無顯卡狀態下的系統相容性。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/B3TB_3Dmn1A_255.jpg" /></p><h2>無顯卡挑戰飛牛 NAS 系統與實測</h2><p>作者安裝了三顆 4TB 硬碟並透過 NVMe 引導順利開機，成功運行了<strong>飛牛 NAS 系統（fnOS）</strong>。實測顯示，飛牛系統能完整識別雙萬兆網卡與所有硬碟。在沒有 GPU 加速的情況下，系統能透過 <strong>CPU 軟解與原畫質串流</strong>流暢播放影片，且相片的 AI 人臉識別功能也能依賴 CPU 算力完成。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/B3TB_3Dmn1A_359.jpg" /></p><h2>擴充測試遭遇高電壓燒毀翻車</h2><p>為了測試 PCIe 插槽的擴充極限，作者嘗試外接獨立顯示卡並更換電源，卻不慎誤插了 <strong>20V 電源適配器</strong>（原廠規格為 12V）。這導致主板與硬碟當場冒煙發出異響並不幸燒毀，測試以慘烈的<strong>硬件翻車事故</strong>宣告結束。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=B3TB_3Dmn1A">https://www.youtube.com/watch?v=B3TB_3Dmn1A</a></p><p>478捡垃圾双万兆+NVME+3盘NAS 却无显卡能玩飞牛？</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/B3TB_3Dmn1A/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=B3TB_3Dmn1A">https://www.youtube.com/watch?v=B3TB_3Dmn1A</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解低成本二手企業級 NAS 設備（IO DATA 3盤位）的硬件架構與性價比。</li><li>實測無內顯 CPU（Intel Atom C3538）在飛牛系統（fnOS）下的相容性與影片、相片 AI 運算表現。</li><li>警示性的硬件電源測試翻車現場，提示玩家在改裝與測試電源時的注意事項。</li></ul><hr /><h1>摘要</h1><h2>開箱與硬件架構解析</h2><p>作者開箱介紹了一款價格約 478 元人民幣的 <strong>IO DATA 3盤位 NAS</strong>。這台設備採用了企業級的 <strong>Intel Atom C3538 四核心處理器</strong>，專為交換機與萬兆路由器設計。硬件配備相當亮眼，包含<strong>雙萬兆電口（10GbE）</strong>、四個 USB 3.1 接口、獨立硬碟背板以及可擴充的 PCIe 插槽。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/B3TB_3Dmn1A_105.jpg" /></p><h2>內部結構與擴充性檢查</h2><p>作者進一步拆解機身，發現機殼內部配備了方便拆洗的防塵網與易於更換的 8cm 風扇。主板上內置了 <strong>NVMe M.2 插槽</strong>、4GB DDR4 記憶體，以及預留的內部 USB 引導接口。然而，Atom C3538 處理器<strong>缺乏整合式顯示晶片（無內顯）</strong>，因此作者決定測試其在無顯卡狀態下的系統相容性。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/B3TB_3Dmn1A_255.jpg" /></p><h2>無顯卡挑戰飛牛 NAS 系統與實測</h2><p>作者安裝了三顆 4TB 硬碟並透過 NVMe 引導順利開機，成功運行了<strong>飛牛 NAS 系統（fnOS）</strong>。實測顯示，飛牛系統能完整識別雙萬兆網卡與所有硬碟。在沒有 GPU 加速的情況下，系統能透過 <strong>CPU 軟解與原畫質串流</strong>流暢播放影片，且相片的 AI 人臉識別功能也能依賴 CPU 算力完成。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/B3TB_3Dmn1A_359.jpg" /></p><h2>擴充測試遭遇高電壓燒毀翻車</h2><p>為了測試 PCIe 插槽的擴充極限，作者嘗試外接獨立顯示卡並更換電源，卻不慎誤插了 <strong>20V 電源適配器</strong>（原廠規格為 12V）。這導致主板與硬碟當場冒煙發出異響並不幸燒毀，測試以慘烈的<strong>硬件翻車事故</strong>宣告結束。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=B3TB_3Dmn1A">https://www.youtube.com/watch?v=B3TB_3Dmn1A</a></p><p>478捡垃圾双万兆+NVME+3盘NAS 却无显卡能玩飞牛？</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/B3TB_3Dmn1A/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=B3TB_3Dmn1A">https://www.youtube.com/watch?v=B3TB_3Dmn1A</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解低成本二手企業級 NAS 設備（IO DATA 3盤位）的硬件架構與性價比。</li><li>實測無內顯 CPU（Intel Atom C3538）在飛牛系統（fnOS）下的相容性與影片、相片 AI 運算表現。</li><li>警示性的硬件電源測試翻車現場，提示玩家在改裝與測試電源時的注意事項。</li></ul><hr /><h1>摘要</h1><h2>開箱與硬件架構解析</h2><p>作者開箱介紹了一款價格約 478 元人民幣的 <strong>IO DATA 3盤位 NAS</strong>。這台設備採用了企業級的 <strong>Intel Atom C3538 四核心處理器</strong>，專為交換機與萬兆路由器設計。硬件配備相當亮眼，包含<strong>雙萬兆電口（10GbE）</strong>、四個 USB 3.1 接口、獨立硬碟背板以及可擴充的 PCIe 插槽。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/B3TB_3Dmn1A_105.jpg" /></p><h2>內部結構與擴充性檢查</h2><p>作者進一步拆解機身，發現機殼內部配備了方便拆洗的防塵網與易於更換的 8cm 風扇。主板上內置了 <strong>NVMe M.2 插槽</strong>、4GB DDR4 記憶體，以及預留的內部 USB 引導接口。然而，Atom C3538 處理器<strong>缺乏整合式顯示晶片（無內顯）</strong>，因此作者決定測試其在無顯卡狀態下的系統相容性。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/B3TB_3Dmn1A_255.jpg" /></p><h2>無顯卡挑戰飛牛 NAS 系統與實測</h2><p>作者安裝了三顆 4TB 硬碟並透過 NVMe 引導順利開機，成功運行了<strong>飛牛 NAS 系統（fnOS）</strong>。實測顯示，飛牛系統能完整識別雙萬兆網卡與所有硬碟。在沒有 GPU 加速的情況下，系統能透過 <strong>CPU 軟解與原畫質串流</strong>流暢播放影片，且相片的 AI 人臉識別功能也能依賴 CPU 算力完成。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/B3TB_3Dmn1A_359.jpg" /></p><h2>擴充測試遭遇高電壓燒毀翻車</h2><p>為了測試 PCIe 插槽的擴充極限，作者嘗試外接獨立顯示卡並更換電源，卻不慎誤插了 <strong>20V 電源適配器</strong>（原廠規格為 12V）。這導致主板與硬碟當場冒煙發出異響並不幸燒毀，測試以慘烈的<strong>硬件翻車事故</strong>宣告結束。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=B3TB_3Dmn1A">https://www.youtube.com/watch?v=B3TB_3Dmn1A</a></p><p>478捡垃圾双万兆+NVME+3盘NAS 却无显卡能玩飞牛？</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/B3TB_3Dmn1A/hqdefault.jpg"/>
+      <pubDate>2026-09-27T04:30:03.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[40块全新65W带屏PD PPS充电头能好用吗？捡垃圾]]></title>
+      <link>https://www.youtube.com/watch?v=hoUAIcYSf0E</link>
+      <itunes:title><![CDATA[40块全新65W带屏PD PPS充电头能好用吗？捡垃圾]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/hoUAIcYSf0E/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=hoUAIcYSf0E">https://www.youtube.com/watch?v=hoUAIcYSf0E</a></p><h1>值得閱讀的理由</h1><ul><li>了解如何以僅 40 元的價格購入具備彩色螢幕顯示與 65W 高功率的高 CP 值快充頭。</li><li>深入解析附贈線材的驚人規格，揭露隱藏的 240W E-Mark 晶片高規格線材。</li><li>完整掌握該充電頭對多種快充協議的相容性，以及一小時全功率滿載發熱與穩定度測試。</li></ul><hr /><h1>摘要</h1><h2>開箱與外觀規格解析</h2><p>作者開箱了一款僅需 <strong>40元人民幣</strong> 的全新 <strong>65W 彩屏 PD 快充頭</strong>。這款充電器配備 <strong>TFT 顯示螢幕</strong>，支援最高 <strong>65W 輸出（20V/3.25A）</strong> 與 <strong>100V-240V 全球電壓</strong>，作者特別選擇了常量螢幕版本以利觀察充電狀態。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/hoUAIcYSf0E_44.jpg" /></p><p>檢視機身時，作者發現其並無 3C 認證標誌，推測為出口外銷轉內銷的產品。令人驚喜的是，隨附的一米長 <strong>C-to-C 充電線</strong> 居然內建 <strong>E-Mark 晶片</strong>，實測最高可支援 <strong>240W（48V/5A）</strong> 的頂級傳輸規格， CP 值極高。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/hoUAIcYSf0E_105.jpg" /></p><h2>協議相容性與長時滿載測試</h2><p>接上負載後螢幕便自動點亮，並即時顯示電流與充電協議。經儀器測試，該充電器支援 <strong>QC3.0</strong>、<strong>FCP</strong>、<strong>華為 SCP（最高 40W）</strong>、<strong>AFC</strong>、開放式 <strong>VOOC</strong> 以及完整的 <strong>PD3.0 65W</strong> 和 <strong>PPS（最高 21V/3.25A）</strong> 等豐富快充協定。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/hoUAIcYSf0E_164.jpg" /></p><p>在實機測試中，螢幕機能精準顯示如 <strong>PD Fix 動態電壓調節</strong> 等運作模式。最後作者進行長達 <strong>一小時的 65W 滿載連續放電測試</strong>，雖然最高溫度來到 <strong>70度</strong>，但全程運作極為平穩，且 <strong>完全沒有出現降功率或斷電</strong> 的情況。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=hoUAIcYSf0E">https://www.youtube.com/watch?v=hoUAIcYSf0E</a></p><p>40块全新65W带屏PD PPS充电头能好用吗？#捡垃圾 #65W带屏充电头 #老张是大佬 #PD协议</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/hoUAIcYSf0E/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=hoUAIcYSf0E">https://www.youtube.com/watch?v=hoUAIcYSf0E</a></p><h1>值得閱讀的理由</h1><ul><li>了解如何以僅 40 元的價格購入具備彩色螢幕顯示與 65W 高功率的高 CP 值快充頭。</li><li>深入解析附贈線材的驚人規格，揭露隱藏的 240W E-Mark 晶片高規格線材。</li><li>完整掌握該充電頭對多種快充協議的相容性，以及一小時全功率滿載發熱與穩定度測試。</li></ul><hr /><h1>摘要</h1><h2>開箱與外觀規格解析</h2><p>作者開箱了一款僅需 <strong>40元人民幣</strong> 的全新 <strong>65W 彩屏 PD 快充頭</strong>。這款充電器配備 <strong>TFT 顯示螢幕</strong>，支援最高 <strong>65W 輸出（20V/3.25A）</strong> 與 <strong>100V-240V 全球電壓</strong>，作者特別選擇了常量螢幕版本以利觀察充電狀態。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/hoUAIcYSf0E_44.jpg" /></p><p>檢視機身時，作者發現其並無 3C 認證標誌，推測為出口外銷轉內銷的產品。令人驚喜的是，隨附的一米長 <strong>C-to-C 充電線</strong> 居然內建 <strong>E-Mark 晶片</strong>，實測最高可支援 <strong>240W（48V/5A）</strong> 的頂級傳輸規格， CP 值極高。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/hoUAIcYSf0E_105.jpg" /></p><h2>協議相容性與長時滿載測試</h2><p>接上負載後螢幕便自動點亮，並即時顯示電流與充電協議。經儀器測試，該充電器支援 <strong>QC3.0</strong>、<strong>FCP</strong>、<strong>華為 SCP（最高 40W）</strong>、<strong>AFC</strong>、開放式 <strong>VOOC</strong> 以及完整的 <strong>PD3.0 65W</strong> 和 <strong>PPS（最高 21V/3.25A）</strong> 等豐富快充協定。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/hoUAIcYSf0E_164.jpg" /></p><p>在實機測試中，螢幕機能精準顯示如 <strong>PD Fix 動態電壓調節</strong> 等運作模式。最後作者進行長達 <strong>一小時的 65W 滿載連續放電測試</strong>，雖然最高溫度來到 <strong>70度</strong>，但全程運作極為平穩，且 <strong>完全沒有出現降功率或斷電</strong> 的情況。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=hoUAIcYSf0E">https://www.youtube.com/watch?v=hoUAIcYSf0E</a></p><p>40块全新65W带屏PD PPS充电头能好用吗？#捡垃圾 #65W带屏充电头 #老张是大佬 #PD协议</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/hoUAIcYSf0E/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=hoUAIcYSf0E">https://www.youtube.com/watch?v=hoUAIcYSf0E</a></p><h1>值得閱讀的理由</h1><ul><li>了解如何以僅 40 元的價格購入具備彩色螢幕顯示與 65W 高功率的高 CP 值快充頭。</li><li>深入解析附贈線材的驚人規格，揭露隱藏的 240W E-Mark 晶片高規格線材。</li><li>完整掌握該充電頭對多種快充協議的相容性，以及一小時全功率滿載發熱與穩定度測試。</li></ul><hr /><h1>摘要</h1><h2>開箱與外觀規格解析</h2><p>作者開箱了一款僅需 <strong>40元人民幣</strong> 的全新 <strong>65W 彩屏 PD 快充頭</strong>。這款充電器配備 <strong>TFT 顯示螢幕</strong>，支援最高 <strong>65W 輸出（20V/3.25A）</strong> 與 <strong>100V-240V 全球電壓</strong>，作者特別選擇了常量螢幕版本以利觀察充電狀態。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/hoUAIcYSf0E_44.jpg" /></p><p>檢視機身時，作者發現其並無 3C 認證標誌，推測為出口外銷轉內銷的產品。令人驚喜的是，隨附的一米長 <strong>C-to-C 充電線</strong> 居然內建 <strong>E-Mark 晶片</strong>，實測最高可支援 <strong>240W（48V/5A）</strong> 的頂級傳輸規格， CP 值極高。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/hoUAIcYSf0E_105.jpg" /></p><h2>協議相容性與長時滿載測試</h2><p>接上負載後螢幕便自動點亮，並即時顯示電流與充電協議。經儀器測試，該充電器支援 <strong>QC3.0</strong>、<strong>FCP</strong>、<strong>華為 SCP（最高 40W）</strong>、<strong>AFC</strong>、開放式 <strong>VOOC</strong> 以及完整的 <strong>PD3.0 65W</strong> 和 <strong>PPS（最高 21V/3.25A）</strong> 等豐富快充協定。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/hoUAIcYSf0E_164.jpg" /></p><p>在實機測試中，螢幕機能精準顯示如 <strong>PD Fix 動態電壓調節</strong> 等運作模式。最後作者進行長達 <strong>一小時的 65W 滿載連續放電測試</strong>，雖然最高溫度來到 <strong>70度</strong>，但全程運作極為平穩，且 <strong>完全沒有出現降功率或斷電</strong> 的情況。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=hoUAIcYSf0E">https://www.youtube.com/watch?v=hoUAIcYSf0E</a></p><p>40块全新65W带屏PD PPS充电头能好用吗？#捡垃圾 #65W带屏充电头 #老张是大佬 #PD协议</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/hoUAIcYSf0E/hqdefault.jpg"/>
+      <pubDate>2026-09-26T04:30:37.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[小米电视 S Pro RGB-Mini LED 2027它来了！老张是大佬]]></title>
+      <link>https://www.youtube.com/watch?v=ckrG0Vvot0E</link>
+      <itunes:title><![CDATA[小米电视 S Pro RGB-Mini LED 2027它来了！老张是大佬]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/ckrG0Vvot0E/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=ckrG0Vvot0E">https://www.youtube.com/watch?v=ckrG0Vvot0E</a></p><h1>值得閱讀的理由</h1><ul><li>了解小米首款 RGB-Mini LED 電視的強悍硬體規格與極致性價比。</li><li>掌握實用的「無廣告開機」設定與智慧遙控器連動操作技巧。</li><li>深入探索 RGB-Mini LED 獨立三原色發光技術所帶來的頂級畫質體驗。</li></ul><hr /><h1>摘要</h1><h2>開箱與旗艦規格解析</h2><p>作者開箱了小米旗下的首款 <strong>RGB-Mini LED 電視 S Pro 2027 版</strong>（85 吋）。這款電視擁有 <strong>3744 個控光分區</strong>與高達 <strong>5000 尼特的最高亮度</strong>，並支援 <strong>360Hz 刷新率</strong>與 <strong>BT.2020 100% 廣色域</strong>，搭配 <strong>0.5% LR 超低反射螢幕</strong>與 2.1.2 聲道的哈曼大師級調音音響，在該價位段展現出極高的配置優勢。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/ckrG0Vvot0E_53.jpg" /></p><h2>外觀設計與豐富連接埠</h2><p>作者展示了電視的外觀與機身設計，整體採用適合壁掛的薄型平整背板。介面配置相當齊全，提供 <strong>USB 3.0</strong>、滿血 <strong>HDMI 2.1</strong>（含 eARC 支援）、光纖輸出與網線介面。隨附的新款遙控器支援 <strong>NFC 一碰投屏</strong>，質感優異且內建電池並採用 Type-C 充電。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/ckrG0Vvot0E_151.jpg" /></p><h2>智慧畫質晶片與開機無廣告技巧</h2><p>在系統設定方面，電視搭戴四核心 A73 處理器、4GB 記憶體與 64GB 儲存空間，為 <strong>RGB-Mini LED 光色同控</strong>與 <strong>AI 畫質管家</strong>提供強大算力。作者特別分享了一項實用技巧：將開機設定改為自動播放指定預設信號源（如 TV 或 HDMI），即可達成<strong>開機無廣告</strong>直接進入畫面的效果。此外，電視亦能深度連動米家智慧生態與小愛同學語音控制。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/ckrG0Vvot0E_322.jpg" /></p><h2>遊戲主機點亮與 RGB-Mini LED 畫質優勢</h2><p>作者實際測試了 PS5 與 Xbox 遊戲主機，電視能自動識別並切換至遊戲模式，支援 <strong>FreeSync Premium Pro</strong> 與 360Hz 競速模式。RGB-Mini LED 技術透過紅、綠、藍三色晶片直接發光，無需傳統白光加濾光片，能呈現出極其純粹的<strong>三原色色彩還原與雙杜比影音效果</strong>。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=ckrG0Vvot0E">https://www.youtube.com/watch?v=ckrG0Vvot0E</a></p><p>小米电视 S Pro RGB-Mini LED 2027它来了！老张是大佬</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/ckrG0Vvot0E/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=ckrG0Vvot0E">https://www.youtube.com/watch?v=ckrG0Vvot0E</a></p><h1>值得閱讀的理由</h1><ul><li>了解小米首款 RGB-Mini LED 電視的強悍硬體規格與極致性價比。</li><li>掌握實用的「無廣告開機」設定與智慧遙控器連動操作技巧。</li><li>深入探索 RGB-Mini LED 獨立三原色發光技術所帶來的頂級畫質體驗。</li></ul><hr /><h1>摘要</h1><h2>開箱與旗艦規格解析</h2><p>作者開箱了小米旗下的首款 <strong>RGB-Mini LED 電視 S Pro 2027 版</strong>（85 吋）。這款電視擁有 <strong>3744 個控光分區</strong>與高達 <strong>5000 尼特的最高亮度</strong>，並支援 <strong>360Hz 刷新率</strong>與 <strong>BT.2020 100% 廣色域</strong>，搭配 <strong>0.5% LR 超低反射螢幕</strong>與 2.1.2 聲道的哈曼大師級調音音響，在該價位段展現出極高的配置優勢。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/ckrG0Vvot0E_53.jpg" /></p><h2>外觀設計與豐富連接埠</h2><p>作者展示了電視的外觀與機身設計，整體採用適合壁掛的薄型平整背板。介面配置相當齊全，提供 <strong>USB 3.0</strong>、滿血 <strong>HDMI 2.1</strong>（含 eARC 支援）、光纖輸出與網線介面。隨附的新款遙控器支援 <strong>NFC 一碰投屏</strong>，質感優異且內建電池並採用 Type-C 充電。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/ckrG0Vvot0E_151.jpg" /></p><h2>智慧畫質晶片與開機無廣告技巧</h2><p>在系統設定方面，電視搭戴四核心 A73 處理器、4GB 記憶體與 64GB 儲存空間，為 <strong>RGB-Mini LED 光色同控</strong>與 <strong>AI 畫質管家</strong>提供強大算力。作者特別分享了一項實用技巧：將開機設定改為自動播放指定預設信號源（如 TV 或 HDMI），即可達成<strong>開機無廣告</strong>直接進入畫面的效果。此外，電視亦能深度連動米家智慧生態與小愛同學語音控制。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/ckrG0Vvot0E_322.jpg" /></p><h2>遊戲主機點亮與 RGB-Mini LED 畫質優勢</h2><p>作者實際測試了 PS5 與 Xbox 遊戲主機，電視能自動識別並切換至遊戲模式，支援 <strong>FreeSync Premium Pro</strong> 與 360Hz 競速模式。RGB-Mini LED 技術透過紅、綠、藍三色晶片直接發光，無需傳統白光加濾光片，能呈現出極其純粹的<strong>三原色色彩還原與雙杜比影音效果</strong>。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=ckrG0Vvot0E">https://www.youtube.com/watch?v=ckrG0Vvot0E</a></p><p>小米电视 S Pro RGB-Mini LED 2027它来了！老张是大佬</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/ckrG0Vvot0E/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=ckrG0Vvot0E">https://www.youtube.com/watch?v=ckrG0Vvot0E</a></p><h1>值得閱讀的理由</h1><ul><li>了解小米首款 RGB-Mini LED 電視的強悍硬體規格與極致性價比。</li><li>掌握實用的「無廣告開機」設定與智慧遙控器連動操作技巧。</li><li>深入探索 RGB-Mini LED 獨立三原色發光技術所帶來的頂級畫質體驗。</li></ul><hr /><h1>摘要</h1><h2>開箱與旗艦規格解析</h2><p>作者開箱了小米旗下的首款 <strong>RGB-Mini LED 電視 S Pro 2027 版</strong>（85 吋）。這款電視擁有 <strong>3744 個控光分區</strong>與高達 <strong>5000 尼特的最高亮度</strong>，並支援 <strong>360Hz 刷新率</strong>與 <strong>BT.2020 100% 廣色域</strong>，搭配 <strong>0.5% LR 超低反射螢幕</strong>與 2.1.2 聲道的哈曼大師級調音音響，在該價位段展現出極高的配置優勢。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/ckrG0Vvot0E_53.jpg" /></p><h2>外觀設計與豐富連接埠</h2><p>作者展示了電視的外觀與機身設計，整體採用適合壁掛的薄型平整背板。介面配置相當齊全，提供 <strong>USB 3.0</strong>、滿血 <strong>HDMI 2.1</strong>（含 eARC 支援）、光纖輸出與網線介面。隨附的新款遙控器支援 <strong>NFC 一碰投屏</strong>，質感優異且內建電池並採用 Type-C 充電。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/ckrG0Vvot0E_151.jpg" /></p><h2>智慧畫質晶片與開機無廣告技巧</h2><p>在系統設定方面，電視搭戴四核心 A73 處理器、4GB 記憶體與 64GB 儲存空間，為 <strong>RGB-Mini LED 光色同控</strong>與 <strong>AI 畫質管家</strong>提供強大算力。作者特別分享了一項實用技巧：將開機設定改為自動播放指定預設信號源（如 TV 或 HDMI），即可達成<strong>開機無廣告</strong>直接進入畫面的效果。此外，電視亦能深度連動米家智慧生態與小愛同學語音控制。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/ckrG0Vvot0E_322.jpg" /></p><h2>遊戲主機點亮與 RGB-Mini LED 畫質優勢</h2><p>作者實際測試了 PS5 與 Xbox 遊戲主機，電視能自動識別並切換至遊戲模式，支援 <strong>FreeSync Premium Pro</strong> 與 360Hz 競速模式。RGB-Mini LED 技術透過紅、綠、藍三色晶片直接發光，無需傳統白光加濾光片，能呈現出極其純粹的<strong>三原色色彩還原與雙杜比影音效果</strong>。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=ckrG0Vvot0E">https://www.youtube.com/watch?v=ckrG0Vvot0E</a></p><p>小米电视 S Pro RGB-Mini LED 2027它来了！老张是大佬</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/ckrG0Vvot0E/hqdefault.jpg"/>
+      <pubDate>2026-09-23T09:00:03.000Z</pubDate>
+    </item></channel>
 </rss>
