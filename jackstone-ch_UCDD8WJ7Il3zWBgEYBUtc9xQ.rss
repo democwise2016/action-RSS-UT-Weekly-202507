@@ -126,6 +126,38 @@
       <itunes:image href="https://i.ytimg.com/vi/upMxGrJC9hQ/hqdefault.jpg"/>
       <pubDate>2026-09-18T01:00:28.000Z</pubDate>
     </item><item>
+      <title><![CDATA[使用最新deepseek-v4.1-flash复刻街机游戏！DeepSeek｜编程｜游戏｜街机]]></title>
+      <link>https://www.youtube.com/watch?v=4qR5_8xUkgs</link>
+      <itunes:title><![CDATA[使用最新deepseek-v4.1-flash复刻街机游戏！DeepSeek｜编程｜游戏｜街机]]></itunes:title>
+      <itunes:author><![CDATA[jack stone]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/4qR5_8xUkgs/hqdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=4qR5_8xUkgs">https://www.youtube.com/watch?v=4qR5_8xUkgs</a></p><h1>值得閱讀的理由</h1><ul><li>重溫驚心動魄的探險傳奇，領略黃河巨獸、魚骨廟幽靈塚與西夏黑水城的神秘詛咒真相。</li><li>掌握 AI 模型微調的核心實務，深入了解 LoRA 訓練中避免過擬合與優化 Loss 表現的關鍵參數調校技巧。</li><li>學習專業資料集構建與評估策略，透徹理解精準標註、觸發詞設定與多權重融合對生成品質的決定性影響。</li></ul><hr /><h1>摘要</h1><h2>黃河奇遇與龍嶺幽靈塚</h2><p>故事從一隻神秘的繡花鞋展開，<strong>胡八一</strong>、<strong>王胖子</strong>與<strong>大金牙</strong>一行人啟程前往陝西古藍縣淘沙收古物。不料在橫渡黃河時突逢狂風惡浪，更遭遇兇猛怪獸<strong>鐵頭龍王</strong>的襲擊，眾人歷經生死考驗才艱難逃生上岸。抵達目的地後，他們前往坐落於龍嶺的<strong>魚骨廟</strong>探查，赫然發現廟宇下方掩藏著機關重重且深不見底的<strong>幽靈塚</strong>與古墓秘境。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4qR5_8xUkgs_190.jpg" /></p><h2>黑水城尋珠與扎格拉瑪族詛咒</h2><p>隨後情節轉入昔日傳奇，講述搬山道人<strong>鷓鴣哨</strong>為了解除族人世代背負的血脈詛咒，拜摸金校尉<strong>了塵長老</strong>為師，攜手外國神父托馬斯遠赴西夏<strong>黑水城</strong>通天大佛寺。在陰森危險的地下大墓中，他們遭遇致命陷阱與腐蝕黑霧，導致了塵長老不幸殞命，鷓鴣哨亦斷臂求生，終究未能寻得<strong>雮塵珠</strong>。視角轉回現代，<strong>Shirley楊</strong>與眾人會合，揭示了眾人背後出現的<strong>眼球狀紅斑印記</strong>，正是千百年來難以擺脫的扎格拉瑪族詛咒。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4qR5_8xUkgs_530.jpg" /></p><h2>LoRA 模型評估與高品質資料建構</h2><p>作者隨後切換至技術維度，深入解析訓練 <strong>LoRA 模型</strong>的關鍵流程。作者指出，評估生成品質與泛化能力時，應結合 <strong>CLIP score</strong>、美學分數等客觀指標與嚴謹的人工主觀評測。此外，<strong>資料集品質</strong>是模型成敗的基石，圖像的解析度、去噪清洗水準以及精確的 <strong>Caption 與標註策略</strong>，都直接決定了模型是否能精準學習到特定的風格特徵。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4qR5_8xUkgs_760.jpg" /></p><h2>訓練參數優化與權重融合策略</h2><p>在探討訓練控制時，作者提醒切勿盲目追求 Loss 曲線的下降，必須謹慎配置<strong>學習率</strong>、<strong>訓練步數</strong>與 <strong>Batch Size</strong>，以嚴防<strong>過擬合</strong>現象造成生成彈性喪失。而在推論應用階段，靈活運用<strong>觸發詞</strong>並細緻微調多個 LoRA 間的<strong>權重比例</strong>，能有效防止畫面撕裂與風格衝突。作者總結指出，相較於龐大雜亂的數據，挑選風格一致且高品質的少量樣本，更能發揮出優異且穩定的微調成果。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=4qR5_8xUkgs">https://www.youtube.com/watch?v=4qR5_8xUkgs</a></p><p>1、先道歉Macos录屏时没有声音，9月14日升级macOS27版本就会有了！</p><p>2、使用DSH+deepseek-V4.1-flash写出来的效果最好，完全超越了Kimi K3！</p><p>3、视频里是模拟街机游戏自己玩通关DEMO模式！</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/4qR5_8xUkgs/hqdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=4qR5_8xUkgs">https://www.youtube.com/watch?v=4qR5_8xUkgs</a></p><h1>值得閱讀的理由</h1><ul><li>重溫驚心動魄的探險傳奇，領略黃河巨獸、魚骨廟幽靈塚與西夏黑水城的神秘詛咒真相。</li><li>掌握 AI 模型微調的核心實務，深入了解 LoRA 訓練中避免過擬合與優化 Loss 表現的關鍵參數調校技巧。</li><li>學習專業資料集構建與評估策略，透徹理解精準標註、觸發詞設定與多權重融合對生成品質的決定性影響。</li></ul><hr /><h1>摘要</h1><h2>黃河奇遇與龍嶺幽靈塚</h2><p>故事從一隻神秘的繡花鞋展開，<strong>胡八一</strong>、<strong>王胖子</strong>與<strong>大金牙</strong>一行人啟程前往陝西古藍縣淘沙收古物。不料在橫渡黃河時突逢狂風惡浪，更遭遇兇猛怪獸<strong>鐵頭龍王</strong>的襲擊，眾人歷經生死考驗才艱難逃生上岸。抵達目的地後，他們前往坐落於龍嶺的<strong>魚骨廟</strong>探查，赫然發現廟宇下方掩藏著機關重重且深不見底的<strong>幽靈塚</strong>與古墓秘境。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4qR5_8xUkgs_190.jpg" /></p><h2>黑水城尋珠與扎格拉瑪族詛咒</h2><p>隨後情節轉入昔日傳奇，講述搬山道人<strong>鷓鴣哨</strong>為了解除族人世代背負的血脈詛咒，拜摸金校尉<strong>了塵長老</strong>為師，攜手外國神父托馬斯遠赴西夏<strong>黑水城</strong>通天大佛寺。在陰森危險的地下大墓中，他們遭遇致命陷阱與腐蝕黑霧，導致了塵長老不幸殞命，鷓鴣哨亦斷臂求生，終究未能寻得<strong>雮塵珠</strong>。視角轉回現代，<strong>Shirley楊</strong>與眾人會合，揭示了眾人背後出現的<strong>眼球狀紅斑印記</strong>，正是千百年來難以擺脫的扎格拉瑪族詛咒。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4qR5_8xUkgs_530.jpg" /></p><h2>LoRA 模型評估與高品質資料建構</h2><p>作者隨後切換至技術維度，深入解析訓練 <strong>LoRA 模型</strong>的關鍵流程。作者指出，評估生成品質與泛化能力時，應結合 <strong>CLIP score</strong>、美學分數等客觀指標與嚴謹的人工主觀評測。此外，<strong>資料集品質</strong>是模型成敗的基石，圖像的解析度、去噪清洗水準以及精確的 <strong>Caption 與標註策略</strong>，都直接決定了模型是否能精準學習到特定的風格特徵。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4qR5_8xUkgs_760.jpg" /></p><h2>訓練參數優化與權重融合策略</h2><p>在探討訓練控制時，作者提醒切勿盲目追求 Loss 曲線的下降，必須謹慎配置<strong>學習率</strong>、<strong>訓練步數</strong>與 <strong>Batch Size</strong>，以嚴防<strong>過擬合</strong>現象造成生成彈性喪失。而在推論應用階段，靈活運用<strong>觸發詞</strong>並細緻微調多個 LoRA 間的<strong>權重比例</strong>，能有效防止畫面撕裂與風格衝突。作者總結指出，相較於龐大雜亂的數據，挑選風格一致且高品質的少量樣本，更能發揮出優異且穩定的微調成果。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=4qR5_8xUkgs">https://www.youtube.com/watch?v=4qR5_8xUkgs</a></p><p>1、先道歉Macos录屏时没有声音，9月14日升级macOS27版本就会有了！</p><p>2、使用DSH+deepseek-V4.1-flash写出来的效果最好，完全超越了Kimi K3！</p><p>3、视频里是模拟街机游戏自己玩通关DEMO模式！</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/4qR5_8xUkgs/hqdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=4qR5_8xUkgs">https://www.youtube.com/watch?v=4qR5_8xUkgs</a></p><h1>值得閱讀的理由</h1><ul><li>重溫驚心動魄的探險傳奇，領略黃河巨獸、魚骨廟幽靈塚與西夏黑水城的神秘詛咒真相。</li><li>掌握 AI 模型微調的核心實務，深入了解 LoRA 訓練中避免過擬合與優化 Loss 表現的關鍵參數調校技巧。</li><li>學習專業資料集構建與評估策略，透徹理解精準標註、觸發詞設定與多權重融合對生成品質的決定性影響。</li></ul><hr /><h1>摘要</h1><h2>黃河奇遇與龍嶺幽靈塚</h2><p>故事從一隻神秘的繡花鞋展開，<strong>胡八一</strong>、<strong>王胖子</strong>與<strong>大金牙</strong>一行人啟程前往陝西古藍縣淘沙收古物。不料在橫渡黃河時突逢狂風惡浪，更遭遇兇猛怪獸<strong>鐵頭龍王</strong>的襲擊，眾人歷經生死考驗才艱難逃生上岸。抵達目的地後，他們前往坐落於龍嶺的<strong>魚骨廟</strong>探查，赫然發現廟宇下方掩藏著機關重重且深不見底的<strong>幽靈塚</strong>與古墓秘境。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4qR5_8xUkgs_190.jpg" /></p><h2>黑水城尋珠與扎格拉瑪族詛咒</h2><p>隨後情節轉入昔日傳奇，講述搬山道人<strong>鷓鴣哨</strong>為了解除族人世代背負的血脈詛咒，拜摸金校尉<strong>了塵長老</strong>為師，攜手外國神父托馬斯遠赴西夏<strong>黑水城</strong>通天大佛寺。在陰森危險的地下大墓中，他們遭遇致命陷阱與腐蝕黑霧，導致了塵長老不幸殞命，鷓鴣哨亦斷臂求生，終究未能寻得<strong>雮塵珠</strong>。視角轉回現代，<strong>Shirley楊</strong>與眾人會合，揭示了眾人背後出現的<strong>眼球狀紅斑印記</strong>，正是千百年來難以擺脫的扎格拉瑪族詛咒。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4qR5_8xUkgs_530.jpg" /></p><h2>LoRA 模型評估與高品質資料建構</h2><p>作者隨後切換至技術維度，深入解析訓練 <strong>LoRA 模型</strong>的關鍵流程。作者指出，評估生成品質與泛化能力時，應結合 <strong>CLIP score</strong>、美學分數等客觀指標與嚴謹的人工主觀評測。此外，<strong>資料集品質</strong>是模型成敗的基石，圖像的解析度、去噪清洗水準以及精確的 <strong>Caption 與標註策略</strong>，都直接決定了模型是否能精準學習到特定的風格特徵。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4qR5_8xUkgs_760.jpg" /></p><h2>訓練參數優化與權重融合策略</h2><p>在探討訓練控制時，作者提醒切勿盲目追求 Loss 曲線的下降，必須謹慎配置<strong>學習率</strong>、<strong>訓練步數</strong>與 <strong>Batch Size</strong>，以嚴防<strong>過擬合</strong>現象造成生成彈性喪失。而在推論應用階段，靈活運用<strong>觸發詞</strong>並細緻微調多個 LoRA 間的<strong>權重比例</strong>，能有效防止畫面撕裂與風格衝突。作者總結指出，相較於龐大雜亂的數據，挑選風格一致且高品質的少量樣本，更能發揮出優異且穩定的微調成果。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=4qR5_8xUkgs">https://www.youtube.com/watch?v=4qR5_8xUkgs</a></p><p>1、先道歉Macos录屏时没有声音，9月14日升级macOS27版本就会有了！</p><p>2、使用DSH+deepseek-V4.1-flash写出来的效果最好，完全超越了Kimi K3！</p><p>3、视频里是模拟街机游戏自己玩通关DEMO模式！</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/4qR5_8xUkgs/hqdefault.jpg"/>
+      <pubDate>2026-09-12T01:00:04.000Z</pubDate>
+    </item><item>
       <title><![CDATA[价格还便宜！TOPFEEL极夜 NEXT 2 H255 迷你工作站全面评测！4升体积迷你主机首选！双PCIe 4.0 插槽+3 M.2 nvme+10G和2.5G]]></title>
       <link>https://www.youtube.com/watch?v=t-6gy9tYCDQ</link>
       <itunes:title><![CDATA[价格还便宜！TOPFEEL极夜 NEXT 2 H255 迷你工作站全面评测！4升体积迷你主机首选！双PCIe 4.0 插槽+3 M.2 nvme+10G和2.5G]]></itunes:title>
