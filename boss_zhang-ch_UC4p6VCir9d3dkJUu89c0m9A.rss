@@ -157,37 +157,5 @@
 <p><a href="https://www.youtube.com/watch?v=VAXCCmaMWz4">https://www.youtube.com/watch?v=VAXCCmaMWz4</a></p><p>25999史上最贵明知山：华强北48GB显存4090涡轮版</p>]]></content:encoded>
       <itunes:image href="https://i.ytimg.com/vi/VAXCCmaMWz4/hqdefault.jpg"/>
       <pubDate>2026-10-01T04:30:08.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[192GB统一内存AI Max+Pro 495迷你工作站铭凡MS-S1 MAX-P495 开个大眼儿]]></title>
-      <link>https://www.youtube.com/watch?v=UW6S69FYgH8</link>
-      <itunes:title><![CDATA[192GB统一内存AI Max+Pro 495迷你工作站铭凡MS-S1 MAX-P495 开个大眼儿]]></itunes:title>
-      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/UW6S69FYgH8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解配備 <strong>192GB 統一記憶體</strong> 的全球首款 AMD AI Max+ Pro 495 迷你工作站強悍規格與效能突破。</li><li>探索迷你主機在本地端載入並順暢運行 <strong>280B 超大語言模型</strong> 及高精度 AI 文生圖、文生影片的實際表現。</li><li>掌握最新 USB4 v2（雷電 5）擴充介面與雙 10G 網卡等專業級硬體配置細節。</li></ul><hr /><h1>摘要</h1><h2>規格升級與外觀介面</h2><p>作者展示了全球首款搭載 <strong>AMD AI Max+ Pro 495</strong> 處理器的迷你主機。與前代 395 版本相比，該機種處理器基礎與銳頻頻率均提升 0.1GHz，採用 <strong>16 核心 32 執行緒</strong> 與 <strong>8065S 圖形處理單元</strong>。最核心的突破在於最大支援高達 <strong>192GB LPDDR5X 統一記憶體</strong>，頻率達 8533MHz，並可將其中 <strong>160GB 劃分給顯示記憶體</strong>，能流暢載入高達 284B 的大語言模型。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_93.jpg" /></p><h2>介面擴充與效能跑分</h2><p>在硬體配置上，主機延續了優異的介面設計，支援 <strong>USB4 v2（雷電 5）</strong> 介面，可外接高達 80Gbps 頻寬的外接顯卡盒，並配備 <strong>雙 10G 網卡</strong> 與內建電源。在 BIOS 設定中，作者將效能模式調整至最高，功耗（PL2）可手動拉至 160W。實測中魯大師跑分達到 <strong>246 萬分</strong>，而在 Cinebench R23 測試中，多核得分更達到 <strong>38,264 分</strong>，展現出桌上型工作站等級的強悍運算實力。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_186.jpg" /></p><h2>本地 AI 模型部署與實測</h2><p>作者重點測試了該主機在本地端運行 AI 大模型的極限能力。得益於 160GB 的可用顯示記憶體，主機得以在 <strong>ComfyUI</strong> 中以 <strong>BF16 全精度模型</strong> 部署並執行 MiniMax-H3 文生影片任務。在極限測試中，作者成功載入了模型容量達 145.6GB 的 <strong>DeepSeek V4 Flash 256B 大模型</strong>，並以每秒 <strong>10.72 tokens</strong> 的速度穩定輸出；而在測試 <strong>GPT-OSS 120B 模型</strong> 時，生成速度更高達每秒 <strong>49.66 tokens</strong>，為中小企業與高階用戶提供了極具性價比的本地 AI 算力解答。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><p>192GB统一内存AI Max+Pro 495迷你工作站铭凡MS-S1 MAX-P495 开个大眼儿</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/UW6S69FYgH8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解配備 <strong>192GB 統一記憶體</strong> 的全球首款 AMD AI Max+ Pro 495 迷你工作站強悍規格與效能突破。</li><li>探索迷你主機在本地端載入並順暢運行 <strong>280B 超大語言模型</strong> 及高精度 AI 文生圖、文生影片的實際表現。</li><li>掌握最新 USB4 v2（雷電 5）擴充介面與雙 10G 網卡等專業級硬體配置細節。</li></ul><hr /><h1>摘要</h1><h2>規格升級與外觀介面</h2><p>作者展示了全球首款搭載 <strong>AMD AI Max+ Pro 495</strong> 處理器的迷你主機。與前代 395 版本相比，該機種處理器基礎與銳頻頻率均提升 0.1GHz，採用 <strong>16 核心 32 執行緒</strong> 與 <strong>8065S 圖形處理單元</strong>。最核心的突破在於最大支援高達 <strong>192GB LPDDR5X 統一記憶體</strong>，頻率達 8533MHz，並可將其中 <strong>160GB 劃分給顯示記憶體</strong>，能流暢載入高達 284B 的大語言模型。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_93.jpg" /></p><h2>介面擴充與效能跑分</h2><p>在硬體配置上，主機延續了優異的介面設計，支援 <strong>USB4 v2（雷電 5）</strong> 介面，可外接高達 80Gbps 頻寬的外接顯卡盒，並配備 <strong>雙 10G 網卡</strong> 與內建電源。在 BIOS 設定中，作者將效能模式調整至最高，功耗（PL2）可手動拉至 160W。實測中魯大師跑分達到 <strong>246 萬分</strong>，而在 Cinebench R23 測試中，多核得分更達到 <strong>38,264 分</strong>，展現出桌上型工作站等級的強悍運算實力。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_186.jpg" /></p><h2>本地 AI 模型部署與實測</h2><p>作者重點測試了該主機在本地端運行 AI 大模型的極限能力。得益於 160GB 的可用顯示記憶體，主機得以在 <strong>ComfyUI</strong> 中以 <strong>BF16 全精度模型</strong> 部署並執行 MiniMax-H3 文生影片任務。在極限測試中，作者成功載入了模型容量達 145.6GB 的 <strong>DeepSeek V4 Flash 256B 大模型</strong>，並以每秒 <strong>10.72 tokens</strong> 的速度穩定輸出；而在測試 <strong>GPT-OSS 120B 模型</strong> 時，生成速度更高達每秒 <strong>49.66 tokens</strong>，為中小企業與高階用戶提供了極具性價比的本地 AI 算力解答。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><p>192GB统一内存AI Max+Pro 495迷你工作站铭凡MS-S1 MAX-P495 开个大眼儿</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/UW6S69FYgH8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解配備 <strong>192GB 統一記憶體</strong> 的全球首款 AMD AI Max+ Pro 495 迷你工作站強悍規格與效能突破。</li><li>探索迷你主機在本地端載入並順暢運行 <strong>280B 超大語言模型</strong> 及高精度 AI 文生圖、文生影片的實際表現。</li><li>掌握最新 USB4 v2（雷電 5）擴充介面與雙 10G 網卡等專業級硬體配置細節。</li></ul><hr /><h1>摘要</h1><h2>規格升級與外觀介面</h2><p>作者展示了全球首款搭載 <strong>AMD AI Max+ Pro 495</strong> 處理器的迷你主機。與前代 395 版本相比，該機種處理器基礎與銳頻頻率均提升 0.1GHz，採用 <strong>16 核心 32 執行緒</strong> 與 <strong>8065S 圖形處理單元</strong>。最核心的突破在於最大支援高達 <strong>192GB LPDDR5X 統一記憶體</strong>，頻率達 8533MHz，並可將其中 <strong>160GB 劃分給顯示記憶體</strong>，能流暢載入高達 284B 的大語言模型。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_93.jpg" /></p><h2>介面擴充與效能跑分</h2><p>在硬體配置上，主機延續了優異的介面設計，支援 <strong>USB4 v2（雷電 5）</strong> 介面，可外接高達 80Gbps 頻寬的外接顯卡盒，並配備 <strong>雙 10G 網卡</strong> 與內建電源。在 BIOS 設定中，作者將效能模式調整至最高，功耗（PL2）可手動拉至 160W。實測中魯大師跑分達到 <strong>246 萬分</strong>，而在 Cinebench R23 測試中，多核得分更達到 <strong>38,264 分</strong>，展現出桌上型工作站等級的強悍運算實力。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/UW6S69FYgH8_186.jpg" /></p><h2>本地 AI 模型部署與實測</h2><p>作者重點測試了該主機在本地端運行 AI 大模型的極限能力。得益於 160GB 的可用顯示記憶體，主機得以在 <strong>ComfyUI</strong> 中以 <strong>BF16 全精度模型</strong> 部署並執行 MiniMax-H3 文生影片任務。在極限測試中，作者成功載入了模型容量達 145.6GB 的 <strong>DeepSeek V4 Flash 256B 大模型</strong>，並以每秒 <strong>10.72 tokens</strong> 的速度穩定輸出；而在測試 <strong>GPT-OSS 120B 模型</strong> 時，生成速度更高達每秒 <strong>49.66 tokens</strong>，為中小企業與高階用戶提供了極具性價比的本地 AI 算力解答。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=UW6S69FYgH8">https://www.youtube.com/watch?v=UW6S69FYgH8</a></p><p>192GB统一内存AI Max+Pro 495迷你工作站铭凡MS-S1 MAX-P495 开个大眼儿</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/UW6S69FYgH8/hqdefault.jpg"/>
-      <pubDate>2026-09-28T04:30:18.000Z</pubDate>
     </item></channel>
 </rss>
