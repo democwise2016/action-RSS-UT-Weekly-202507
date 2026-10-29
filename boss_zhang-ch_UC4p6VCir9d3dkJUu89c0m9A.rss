@@ -1,26 +1,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
   <channel>
     <title><![CDATA[老张是大佬 裝 電腦[YT+]]]></title>
-    <link>undefined</link>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</link>
     <image>
-      <url>https://fastly.picsum.photos/id/13/800/800.jpg?hmac=E13js1xTZkR-jXGydKNnlPx4w3f9Id55iuLjj2MXaVk</url>
+      <url>https://yt3.ggpht.com/ytc/AIdro_lLFI1pwSj-Pn9k67nIIUJHwZRvxp_V7mdkfsv6bmNL=s88-c-k-c0x00ffffff-no-rj</url>
       <title>老张是大佬 裝 電腦[YT+]</title>
-      <link>undefined</link>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</link>
     </image>
     <language>en-us</language>
-    <atom:link href="undefined" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[老张是大佬 裝 電腦[YT+]]]></copyright>
     <itunes:author><![CDATA[老张是大佬 裝 電腦[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      我是老张，大家好<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      我是老张，大家好<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</a>
       ]]>
@@ -28,6 +28,102 @@
     <itunes:owner>
       <itunes:name><![CDATA[老张是大佬 裝 電腦[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/13/800/800.jpg?hmac=E13js1xTZkR-jXGydKNnlPx4w3f9Id55iuLjj2MXaVk"/>
-</channel>
+    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_lLFI1pwSj-Pn9k67nIIUJHwZRvxp_V7mdkfsv6bmNL=s88-c-k-c0x00ffffff-no-rj"/>
+<item>
+      <title><![CDATA[30块8节的5号锂钛充电电池是什么鬼？明知山有虎]]></title>
+      <link>https://www.youtube.com/watch?v=vrJbe0XQpek</link>
+      <itunes:title><![CDATA[30块8节的5号锂钛充电电池是什么鬼？明知山有虎]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/vrJbe0XQpek/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=vrJbe0XQpek">https://www.youtube.com/watch?v=vrJbe0XQpek</a></p><h1>值得閱讀的理由</h1><ul><li>揭開市面上超低價「1.5V鋰鈦充電電池」背後的技術真相與行銷噱頭。</li><li>深入了解鈦酸鋰電池（LTO）的特性、電壓規格及其與一般鋰電池在容量上的顯著差距。</li><li>透過實際儀器測量、周邊裝置相容性測試與暴力拆解，驗證該電池的真實做工與品質一致性。</li></ul><hr /><h1>摘要</h1><h2>引子：市場新奇「鈦電池」的廉價誘惑</h2><p>作者近期致力於將家中的電池全面更換為充電電池，並添購了一體式充放電收納站。在逛電子市場時，作者意外發現一款宣稱<strong>30元8節</strong>且號稱<strong>1.5V可充電「鈦電池」</strong>的產品。一般常見的鋰電池電芯為3.6V，通常需要內建降壓晶片才能輸出1.5V，因此會佔用電池空間；而這款產品宣稱是<strong>1.5V無降壓晶片</strong>、全由化學反應直接輸出的新電池，但標稱容量極低，5號電池僅有<strong>600mAh</strong>，7號更只有<strong>220mAh</strong>，讓作者決定買來實測探究真相。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/vrJbe0XQpek_98.jpg" /></p><h2>技術解析：鈦酸鋰的真實面貌與極低容量</h2><p>作者向智慧助理查詢得知，業界標準名稱其實是<strong>鈦酸鋰電池（LTO）</strong>，屬於鋰離子電池的一種，最大差異在於負極改用鈦酸鋰而非傳統石墨。鈦酸鋰電池單體電壓通常在2.3V至2.4V之間，且因<strong>能量密度較低</strong>，在手機與筆電等追求高續航的設備中極少使用。這款產品雖然附帶了標記為鋰鈦專用的充電器，但其容量過低，甚至讓人懷疑連測試容量的步驟都可以省略。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/vrJbe0XQpek_165.jpg" /></p><h2>實測表現與品質參差不齊的電壓</h2><p>作者拿出萬用表測量隨附電池的電壓，發現產品的<strong>品質一致性極差</strong>。有些測得1.7V，有些維持1.5V至1.6V，甚至還有開箱即壞、完全沒電進入保護狀態的電芯。作者隨後將電池安裝至<strong>Xbox遊戲手把</strong>中進行實際通電測試，設備能正常開機運作，顯示其相容性尚可，但也驗證了其電壓輸出並非如同宣傳般精準恆壓。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/vrJbe0XQpek_198.jpg" /></p><h2>暴力拆解：沒有電路板的純粹捲繞電芯</h2><p>為了一探內部乾坤，作者著手拆解電池鋼殼。原本預期會看到降壓電路或特殊晶片，然而剪開鋼殼後卻發現內部完全<strong>沒有變壓電路</strong>，而是一枚完整直接捲繞、輸出約1.5V的化學電芯結構。這讓作者啼笑皆非，直呼這種反常規的設計簡直不合常理，令人好奇背後的製造技術究竟是如何實現的。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=vrJbe0XQpek">https://www.youtube.com/watch?v=vrJbe0XQpek</a></p><p>30块8节的5号锂钛充电电池是什么鬼？明知山有虎</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/vrJbe0XQpek/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=vrJbe0XQpek">https://www.youtube.com/watch?v=vrJbe0XQpek</a></p><h1>值得閱讀的理由</h1><ul><li>揭開市面上超低價「1.5V鋰鈦充電電池」背後的技術真相與行銷噱頭。</li><li>深入了解鈦酸鋰電池（LTO）的特性、電壓規格及其與一般鋰電池在容量上的顯著差距。</li><li>透過實際儀器測量、周邊裝置相容性測試與暴力拆解，驗證該電池的真實做工與品質一致性。</li></ul><hr /><h1>摘要</h1><h2>引子：市場新奇「鈦電池」的廉價誘惑</h2><p>作者近期致力於將家中的電池全面更換為充電電池，並添購了一體式充放電收納站。在逛電子市場時，作者意外發現一款宣稱<strong>30元8節</strong>且號稱<strong>1.5V可充電「鈦電池」</strong>的產品。一般常見的鋰電池電芯為3.6V，通常需要內建降壓晶片才能輸出1.5V，因此會佔用電池空間；而這款產品宣稱是<strong>1.5V無降壓晶片</strong>、全由化學反應直接輸出的新電池，但標稱容量極低，5號電池僅有<strong>600mAh</strong>，7號更只有<strong>220mAh</strong>，讓作者決定買來實測探究真相。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/vrJbe0XQpek_98.jpg" /></p><h2>技術解析：鈦酸鋰的真實面貌與極低容量</h2><p>作者向智慧助理查詢得知，業界標準名稱其實是<strong>鈦酸鋰電池（LTO）</strong>，屬於鋰離子電池的一種，最大差異在於負極改用鈦酸鋰而非傳統石墨。鈦酸鋰電池單體電壓通常在2.3V至2.4V之間，且因<strong>能量密度較低</strong>，在手機與筆電等追求高續航的設備中極少使用。這款產品雖然附帶了標記為鋰鈦專用的充電器，但其容量過低，甚至讓人懷疑連測試容量的步驟都可以省略。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/vrJbe0XQpek_165.jpg" /></p><h2>實測表現與品質參差不齊的電壓</h2><p>作者拿出萬用表測量隨附電池的電壓，發現產品的<strong>品質一致性極差</strong>。有些測得1.7V，有些維持1.5V至1.6V，甚至還有開箱即壞、完全沒電進入保護狀態的電芯。作者隨後將電池安裝至<strong>Xbox遊戲手把</strong>中進行實際通電測試，設備能正常開機運作，顯示其相容性尚可，但也驗證了其電壓輸出並非如同宣傳般精準恆壓。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/vrJbe0XQpek_198.jpg" /></p><h2>暴力拆解：沒有電路板的純粹捲繞電芯</h2><p>為了一探內部乾坤，作者著手拆解電池鋼殼。原本預期會看到降壓電路或特殊晶片，然而剪開鋼殼後卻發現內部完全<strong>沒有變壓電路</strong>，而是一枚完整直接捲繞、輸出約1.5V的化學電芯結構。這讓作者啼笑皆非，直呼這種反常規的設計簡直不合常理，令人好奇背後的製造技術究竟是如何實現的。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=vrJbe0XQpek">https://www.youtube.com/watch?v=vrJbe0XQpek</a></p><p>30块8节的5号锂钛充电电池是什么鬼？明知山有虎</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/vrJbe0XQpek/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=vrJbe0XQpek">https://www.youtube.com/watch?v=vrJbe0XQpek</a></p><h1>值得閱讀的理由</h1><ul><li>揭開市面上超低價「1.5V鋰鈦充電電池」背後的技術真相與行銷噱頭。</li><li>深入了解鈦酸鋰電池（LTO）的特性、電壓規格及其與一般鋰電池在容量上的顯著差距。</li><li>透過實際儀器測量、周邊裝置相容性測試與暴力拆解，驗證該電池的真實做工與品質一致性。</li></ul><hr /><h1>摘要</h1><h2>引子：市場新奇「鈦電池」的廉價誘惑</h2><p>作者近期致力於將家中的電池全面更換為充電電池，並添購了一體式充放電收納站。在逛電子市場時，作者意外發現一款宣稱<strong>30元8節</strong>且號稱<strong>1.5V可充電「鈦電池」</strong>的產品。一般常見的鋰電池電芯為3.6V，通常需要內建降壓晶片才能輸出1.5V，因此會佔用電池空間；而這款產品宣稱是<strong>1.5V無降壓晶片</strong>、全由化學反應直接輸出的新電池，但標稱容量極低，5號電池僅有<strong>600mAh</strong>，7號更只有<strong>220mAh</strong>，讓作者決定買來實測探究真相。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/vrJbe0XQpek_98.jpg" /></p><h2>技術解析：鈦酸鋰的真實面貌與極低容量</h2><p>作者向智慧助理查詢得知，業界標準名稱其實是<strong>鈦酸鋰電池（LTO）</strong>，屬於鋰離子電池的一種，最大差異在於負極改用鈦酸鋰而非傳統石墨。鈦酸鋰電池單體電壓通常在2.3V至2.4V之間，且因<strong>能量密度較低</strong>，在手機與筆電等追求高續航的設備中極少使用。這款產品雖然附帶了標記為鋰鈦專用的充電器，但其容量過低，甚至讓人懷疑連測試容量的步驟都可以省略。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/vrJbe0XQpek_165.jpg" /></p><h2>實測表現與品質參差不齊的電壓</h2><p>作者拿出萬用表測量隨附電池的電壓，發現產品的<strong>品質一致性極差</strong>。有些測得1.7V，有些維持1.5V至1.6V，甚至還有開箱即壞、完全沒電進入保護狀態的電芯。作者隨後將電池安裝至<strong>Xbox遊戲手把</strong>中進行實際通電測試，設備能正常開機運作，顯示其相容性尚可，但也驗證了其電壓輸出並非如同宣傳般精準恆壓。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/vrJbe0XQpek_198.jpg" /></p><h2>暴力拆解：沒有電路板的純粹捲繞電芯</h2><p>為了一探內部乾坤，作者著手拆解電池鋼殼。原本預期會看到降壓電路或特殊晶片，然而剪開鋼殼後卻發現內部完全<strong>沒有變壓電路</strong>，而是一枚完整直接捲繞、輸出約1.5V的化學電芯結構。這讓作者啼笑皆非，直呼這種反常規的設計簡直不合常理，令人好奇背後的製造技術究竟是如何實現的。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=vrJbe0XQpek">https://www.youtube.com/watch?v=vrJbe0XQpek</a></p><p>30块8节的5号锂钛充电电池是什么鬼？明知山有虎</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/vrJbe0XQpek/hqdefault.jpg"/>
+      <pubDate>2026-10-28T04:30:19.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[上手聊聊红米K100标准版 很熟悉啊 老张是大佬]]></title>
+      <link>https://www.youtube.com/watch?v=VEz3DPpOWbA</link>
+      <itunes:title><![CDATA[上手聊聊红米K100标准版 很熟悉啊 老张是大佬]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://img.youtube.com/vi/VEz3DPpOWbA/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=VEz3DPpOWbA">https://www.youtube.com/watch?v=VEz3DPpOWbA</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 Redmi K100 如何在機身厚度僅增加不到 0.5 毫米的情況下，塞入驚人的 <strong>10,000mAh 超大容量電池</strong>並實現長達兩天的重度續航。</li><li>掌握 K100 與前代至尊版的關鍵規格取捨，探討取消主動散熱風扇後，如何依託<strong>驍龍 8 至尊版</strong>與 <strong>D2 獨顯晶片</strong>實現頂級遊戲滿幀體驗。</li><li>全面評測 6.83 吋 165Hz 全程 DC 調光螢幕與 <strong>BOSE 調校對稱立體聲揚聲器</strong>帶來的全方位影音與電競沉浸感。</li></ul><hr /><h1>摘要</h1><h2>純粹極致的硬體配置與外觀設計</h2><p>作者開箱並體驗了小米旗下的 <strong>Redmi K100</strong>，直言這款手機能讓人感受到紅米初期的純粹性價比風格。外觀上，K100 延續了金屬邊框與玻纖後蓋的設計語言，取消了前代的主動散熱風扇，取而代之的是具有質感的 <strong>BOSE 標誌</strong>。正面搭載一塊 6.83 吋 1.5K 華星光電 M10 螢幕，具備 <strong>165Hz 更新率</strong> 與 <strong>全程 DC 調光</strong>，兼顧護眼與流暢度。此外，雙 1115X 對稱立體聲喇叭搭配 Nbass 低音粉末與 0815X 馬達，全面照顧了遊戲愛好者的視聽反饋。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/VEz3DPpOWbA_70.jpg" /></p><h2>恐怖續航：突破性的 10,000mAh 巨量電池</h2><p>相較於前代旗艦，K100 最令人震撼的進化在於機身厚度僅微增不到 0.5 毫米，卻塞入了小米陣營前所未有的 <strong>10,000mAh 超大電池</strong>。作者實測連續使用長達 38 小時後仍剩餘 57% 電量，在包含導航、刷短影音與遊戲等中重度日常使用下，續航力可輕鬆跨越兩天。配合 <strong>100W 有線快充</strong> 與 <strong>27W 反向供電</strong>，讓手機甚至能充當高效率的隨身行動電源。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/VEz3DPpOWbA_140.jpg" /></p><h2>回歸極致性價比的遊戲性能猛獸</h2><p>在核心效能方面，K100 毫不妥協地保留了頂級 <strong>驍龍 8 至尊版</strong> 處理器，並額外加入 <strong>D2 獨立顯示晶片</strong>。這項硬體升級讓手機得以同時開啟 165Hz 插幀與超解析度技術，加上大幅擴增的散熱面積，能讓市面上絕大多數主流遊戲維持滿幀流暢運行。作者總結，這款產品捨棄了一體冷雕玻璃等華而不實的裝飾性設計，將所有成本完全傾注於核心效能、螢幕素質與極限續航，是一台目標明確的效能神器。</p><hr /><hr />================================================</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">这是小米的K100 已经用了几天了 今天来给大家聊聊 然后保留了一点 小小的仪式感 揭 这个手机非常非常的单纯 感觉就像回到了红米 最早发布的那个年代 配件咱们还是先看看啊 说明书扔 透明保护壳 这有啥可看的 你看 进化了 包边用了TPU材质 背壳硬塑料 充电头100瓦 祖传A 口 手机的外观先来 给大家看一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">壳还是摘了吧 玻纤的后盖 金属的边框 看着眼熟不 和K90至尊、Max几乎 相同的设计语言 它把风扇的位置去掉了 换成了一个同心圆的 BOSE的logo 老规矩 手机配置老张先打在屏幕上 大家可以暂停观看 相比K90 至尊砍掉了主动散热风扇 但是依旧保留了 骁龙8至尊的处理器 保留了相同尺寸的 6.83英寸1.5k华星光电M10的屏幕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以这是一个 典型的中大屏手机 165Hz 全程DC调光 然后相同的双摄像头 光影猎人800 双1115X对称式 立体声扬声器 1115X内置了Nbass的 低音增强粉末 所以这一套系统 是非常适合那种动次打次党 不戴耳机听音走位打游戏的 BOSE音效 爆能器已部署。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">这钱乱花也好 不乱花也好 花光就是了 内置马达0815X 你看这些都是玩游戏的 老伙计们非常注重的点 它全部保留了 跟打游戏跟性价比无关的 一概砍掉 所以你听完了 所有的配置会说 这个跟红米K90至尊 有什么区别啊 有区别的 第一比它便宜 第二你注意看啊 K100标准版厚度多 了不到0.5毫米 几乎相同的手感 它的电池容量。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">达到了小米阵营 X高的1万毫安时 你看它有100瓦快充 还支持27瓦反向供电 1万毫安的充电宝 可以充几次iphone18 你看我这台手机 什么时候充的电啊 我已经连续使用了38个小时 目前还剩余电量57% 正常打游戏 长时间的导航 玩游戏玩游戏刷抖音 我的日常使用一点都不少。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">这个手机中重度使用 甚至可以到两天的续航 所以你可以把它 简单的理解为 这就是增大了电池 去掉风扇版本的K90Ultra 和中屏的K90对比 虽然都是骁龙8至尊 但是它多出了D2独显 屏幕也提升到了 165Hz 懂的人我都不用讲对吧 支持165Hz插帧 支持超分 并且支持超分和 插帧的同时运行 几乎市面上所有的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">游戏都可以满帧运行 它相比上一代还大幅 增加了散热的面积 追新不可能的 浪费一点性能不可能的 这红米也是被逼急了对吧 这感觉就是把一切 华而不实的东西全都去掉 就留了一台 一切围绕旗舰 处理器加这块好屏来呗 哎 一体冷雕玻璃 可能再也不见了。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=VEz3DPpOWbA">https://www.youtube.com/watch?v=VEz3DPpOWbA</a></p><p>上手聊聊红米K100标准版 很熟悉啊 老张是大佬</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://img.youtube.com/vi/VEz3DPpOWbA/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=VEz3DPpOWbA">https://www.youtube.com/watch?v=VEz3DPpOWbA</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 Redmi K100 如何在機身厚度僅增加不到 0.5 毫米的情況下，塞入驚人的 <strong>10,000mAh 超大容量電池</strong>並實現長達兩天的重度續航。</li><li>掌握 K100 與前代至尊版的關鍵規格取捨，探討取消主動散熱風扇後，如何依託<strong>驍龍 8 至尊版</strong>與 <strong>D2 獨顯晶片</strong>實現頂級遊戲滿幀體驗。</li><li>全面評測 6.83 吋 165Hz 全程 DC 調光螢幕與 <strong>BOSE 調校對稱立體聲揚聲器</strong>帶來的全方位影音與電競沉浸感。</li></ul><hr /><h1>摘要</h1><h2>純粹極致的硬體配置與外觀設計</h2><p>作者開箱並體驗了小米旗下的 <strong>Redmi K100</strong>，直言這款手機能讓人感受到紅米初期的純粹性價比風格。外觀上，K100 延續了金屬邊框與玻纖後蓋的設計語言，取消了前代的主動散熱風扇，取而代之的是具有質感的 <strong>BOSE 標誌</strong>。正面搭載一塊 6.83 吋 1.5K 華星光電 M10 螢幕，具備 <strong>165Hz 更新率</strong> 與 <strong>全程 DC 調光</strong>，兼顧護眼與流暢度。此外，雙 1115X 對稱立體聲喇叭搭配 Nbass 低音粉末與 0815X 馬達，全面照顧了遊戲愛好者的視聽反饋。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/VEz3DPpOWbA_70.jpg" /></p><h2>恐怖續航：突破性的 10,000mAh 巨量電池</h2><p>相較於前代旗艦，K100 最令人震撼的進化在於機身厚度僅微增不到 0.5 毫米，卻塞入了小米陣營前所未有的 <strong>10,000mAh 超大電池</strong>。作者實測連續使用長達 38 小時後仍剩餘 57% 電量，在包含導航、刷短影音與遊戲等中重度日常使用下，續航力可輕鬆跨越兩天。配合 <strong>100W 有線快充</strong> 與 <strong>27W 反向供電</strong>，讓手機甚至能充當高效率的隨身行動電源。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/VEz3DPpOWbA_140.jpg" /></p><h2>回歸極致性價比的遊戲性能猛獸</h2><p>在核心效能方面，K100 毫不妥協地保留了頂級 <strong>驍龍 8 至尊版</strong> 處理器，並額外加入 <strong>D2 獨立顯示晶片</strong>。這項硬體升級讓手機得以同時開啟 165Hz 插幀與超解析度技術，加上大幅擴增的散熱面積，能讓市面上絕大多數主流遊戲維持滿幀流暢運行。作者總結，這款產品捨棄了一體冷雕玻璃等華而不實的裝飾性設計，將所有成本完全傾注於核心效能、螢幕素質與極限續航，是一台目標明確的效能神器。</p><hr /><hr />================================================</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">这是小米的K100 已经用了几天了 今天来给大家聊聊 然后保留了一点 小小的仪式感 揭 这个手机非常非常的单纯 感觉就像回到了红米 最早发布的那个年代 配件咱们还是先看看啊 说明书扔 透明保护壳 这有啥可看的 你看 进化了 包边用了TPU材质 背壳硬塑料 充电头100瓦 祖传A 口 手机的外观先来 给大家看一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">壳还是摘了吧 玻纤的后盖 金属的边框 看着眼熟不 和K90至尊、Max几乎 相同的设计语言 它把风扇的位置去掉了 换成了一个同心圆的 BOSE的logo 老规矩 手机配置老张先打在屏幕上 大家可以暂停观看 相比K90 至尊砍掉了主动散热风扇 但是依旧保留了 骁龙8至尊的处理器 保留了相同尺寸的 6.83英寸1.5k华星光电M10的屏幕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以这是一个 典型的中大屏手机 165Hz 全程DC调光 然后相同的双摄像头 光影猎人800 双1115X对称式 立体声扬声器 1115X内置了Nbass的 低音增强粉末 所以这一套系统 是非常适合那种动次打次党 不戴耳机听音走位打游戏的 BOSE音效 爆能器已部署。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">这钱乱花也好 不乱花也好 花光就是了 内置马达0815X 你看这些都是玩游戏的 老伙计们非常注重的点 它全部保留了 跟打游戏跟性价比无关的 一概砍掉 所以你听完了 所有的配置会说 这个跟红米K90至尊 有什么区别啊 有区别的 第一比它便宜 第二你注意看啊 K100标准版厚度多 了不到0.5毫米 几乎相同的手感 它的电池容量。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">达到了小米阵营 X高的1万毫安时 你看它有100瓦快充 还支持27瓦反向供电 1万毫安的充电宝 可以充几次iphone18 你看我这台手机 什么时候充的电啊 我已经连续使用了38个小时 目前还剩余电量57% 正常打游戏 长时间的导航 玩游戏玩游戏刷抖音 我的日常使用一点都不少。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">这个手机中重度使用 甚至可以到两天的续航 所以你可以把它 简单的理解为 这就是增大了电池 去掉风扇版本的K90Ultra 和中屏的K90对比 虽然都是骁龙8至尊 但是它多出了D2独显 屏幕也提升到了 165Hz 懂的人我都不用讲对吧 支持165Hz插帧 支持超分 并且支持超分和 插帧的同时运行 几乎市面上所有的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">游戏都可以满帧运行 它相比上一代还大幅 增加了散热的面积 追新不可能的 浪费一点性能不可能的 这红米也是被逼急了对吧 这感觉就是把一切 华而不实的东西全都去掉 就留了一台 一切围绕旗舰 处理器加这块好屏来呗 哎 一体冷雕玻璃 可能再也不见了。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=VEz3DPpOWbA">https://www.youtube.com/watch?v=VEz3DPpOWbA</a></p><p>上手聊聊红米K100标准版 很熟悉啊 老张是大佬</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://img.youtube.com/vi/VEz3DPpOWbA/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=VEz3DPpOWbA">https://www.youtube.com/watch?v=VEz3DPpOWbA</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 Redmi K100 如何在機身厚度僅增加不到 0.5 毫米的情況下，塞入驚人的 <strong>10,000mAh 超大容量電池</strong>並實現長達兩天的重度續航。</li><li>掌握 K100 與前代至尊版的關鍵規格取捨，探討取消主動散熱風扇後，如何依託<strong>驍龍 8 至尊版</strong>與 <strong>D2 獨顯晶片</strong>實現頂級遊戲滿幀體驗。</li><li>全面評測 6.83 吋 165Hz 全程 DC 調光螢幕與 <strong>BOSE 調校對稱立體聲揚聲器</strong>帶來的全方位影音與電競沉浸感。</li></ul><hr /><h1>摘要</h1><h2>純粹極致的硬體配置與外觀設計</h2><p>作者開箱並體驗了小米旗下的 <strong>Redmi K100</strong>，直言這款手機能讓人感受到紅米初期的純粹性價比風格。外觀上，K100 延續了金屬邊框與玻纖後蓋的設計語言，取消了前代的主動散熱風扇，取而代之的是具有質感的 <strong>BOSE 標誌</strong>。正面搭載一塊 6.83 吋 1.5K 華星光電 M10 螢幕，具備 <strong>165Hz 更新率</strong> 與 <strong>全程 DC 調光</strong>，兼顧護眼與流暢度。此外，雙 1115X 對稱立體聲喇叭搭配 Nbass 低音粉末與 0815X 馬達，全面照顧了遊戲愛好者的視聽反饋。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/VEz3DPpOWbA_70.jpg" /></p><h2>恐怖續航：突破性的 10,000mAh 巨量電池</h2><p>相較於前代旗艦，K100 最令人震撼的進化在於機身厚度僅微增不到 0.5 毫米，卻塞入了小米陣營前所未有的 <strong>10,000mAh 超大電池</strong>。作者實測連續使用長達 38 小時後仍剩餘 57% 電量，在包含導航、刷短影音與遊戲等中重度日常使用下，續航力可輕鬆跨越兩天。配合 <strong>100W 有線快充</strong> 與 <strong>27W 反向供電</strong>，讓手機甚至能充當高效率的隨身行動電源。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/VEz3DPpOWbA_140.jpg" /></p><h2>回歸極致性價比的遊戲性能猛獸</h2><p>在核心效能方面，K100 毫不妥協地保留了頂級 <strong>驍龍 8 至尊版</strong> 處理器，並額外加入 <strong>D2 獨立顯示晶片</strong>。這項硬體升級讓手機得以同時開啟 165Hz 插幀與超解析度技術，加上大幅擴增的散熱面積，能讓市面上絕大多數主流遊戲維持滿幀流暢運行。作者總結，這款產品捨棄了一體冷雕玻璃等華而不實的裝飾性設計，將所有成本完全傾注於核心效能、螢幕素質與極限續航，是一台目標明確的效能神器。</p><hr /><hr />================================================</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">这是小米的K100 已经用了几天了 今天来给大家聊聊 然后保留了一点 小小的仪式感 揭 这个手机非常非常的单纯 感觉就像回到了红米 最早发布的那个年代 配件咱们还是先看看啊 说明书扔 透明保护壳 这有啥可看的 你看 进化了 包边用了TPU材质 背壳硬塑料 充电头100瓦 祖传A 口 手机的外观先来 给大家看一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">壳还是摘了吧 玻纤的后盖 金属的边框 看着眼熟不 和K90至尊、Max几乎 相同的设计语言 它把风扇的位置去掉了 换成了一个同心圆的 BOSE的logo 老规矩 手机配置老张先打在屏幕上 大家可以暂停观看 相比K90 至尊砍掉了主动散热风扇 但是依旧保留了 骁龙8至尊的处理器 保留了相同尺寸的 6.83英寸1.5k华星光电M10的屏幕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以这是一个 典型的中大屏手机 165Hz 全程DC调光 然后相同的双摄像头 光影猎人800 双1115X对称式 立体声扬声器 1115X内置了Nbass的 低音增强粉末 所以这一套系统 是非常适合那种动次打次党 不戴耳机听音走位打游戏的 BOSE音效 爆能器已部署。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">这钱乱花也好 不乱花也好 花光就是了 内置马达0815X 你看这些都是玩游戏的 老伙计们非常注重的点 它全部保留了 跟打游戏跟性价比无关的 一概砍掉 所以你听完了 所有的配置会说 这个跟红米K90至尊 有什么区别啊 有区别的 第一比它便宜 第二你注意看啊 K100标准版厚度多 了不到0.5毫米 几乎相同的手感 它的电池容量。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">达到了小米阵营 X高的1万毫安时 你看它有100瓦快充 还支持27瓦反向供电 1万毫安的充电宝 可以充几次iphone18 你看我这台手机 什么时候充的电啊 我已经连续使用了38个小时 目前还剩余电量57% 正常打游戏 长时间的导航 玩游戏玩游戏刷抖音 我的日常使用一点都不少。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">这个手机中重度使用 甚至可以到两天的续航 所以你可以把它 简单的理解为 这就是增大了电池 去掉风扇版本的K90Ultra 和中屏的K90对比 虽然都是骁龙8至尊 但是它多出了D2独显 屏幕也提升到了 165Hz 懂的人我都不用讲对吧 支持165Hz插帧 支持超分 并且支持超分和 插帧的同时运行 几乎市面上所有的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">游戏都可以满帧运行 它相比上一代还大幅 增加了散热的面积 追新不可能的 浪费一点性能不可能的 这红米也是被逼急了对吧 这感觉就是把一切 华而不实的东西全都去掉 就留了一台 一切围绕旗舰 处理器加这块好屏来呗 哎 一体冷雕玻璃 可能再也不见了。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=VEz3DPpOWbA">https://www.youtube.com/watch?v=VEz3DPpOWbA</a></p><p>上手聊聊红米K100标准版 很熟悉啊 老张是大佬</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/VEz3DPpOWbA/hqdefault.jpg"/>
+      <pubDate>2026-10-27T12:00:21.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[大船货839块的11代G83笔记本8GB板载+可扩展内存 捡垃圾]]></title>
+      <link>https://www.youtube.com/watch?v=S3mvGM-eS80</link>
+      <itunes:title><![CDATA[大船货839块的11代G83笔记本8GB板载+可扩展内存 捡垃圾]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/S3mvGM-eS80/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=S3mvGM-eS80">https://www.youtube.com/watch?v=S3mvGM-eS80</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解二手市場中性價比極高的<strong>東芝 G83 第11代筆記型電腦</strong>，分析其為何比其他世代更值得入手。</li><li>詳細解析該機型的硬體亮點，包括<strong>雙雷電4接口</strong>、罕見的<strong>可擴充記憶體設計</strong>以及高達 53Wh 的強勁電池續航力。</li><li>提供實際拆機、魯大師跑分與熱門遊戲《特戰英豪》的實測幀率，為預算有限的文書與輕度娛樂使用者提供務實的選購參考。</li></ul><hr /><h1>摘要</h1><h2>超值撿垃圾神機：東芝 G83 11代規格剖析</h2><p>作者在本段影片中介紹了一款價格僅 839 元的「大船貨」洋垃圾筆電——<strong>東芝 Dynabook G83 第11代</strong>。作者特別提醒觀眾不要買錯型號，因為 G83 雖然涵蓋第8代至第12代，但唯獨<strong>第11代</strong>最值得入手。此機型採用全金屬材質機身與 13 吋輕薄設計，隨機附有保護貼與鍵盤貼，整體外觀維持在約九成新，是二手商務機中極具競爭力的選擇。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/S3mvGM-eS80_95.jpg" /></p><h2>罕見的記憶體擴充與滿配連接接口</h2><p>作者展示了機身周邊極為豐富的連接能力，包括日本商務機標誌性的<strong>免折疊 RJ-45 有線網孔</strong>、Micro SD 插槽、USB-A，以及機身左側的<strong>雙雷電4（Thunderbolt 4）Type-C 接口</strong>與標準 HDMI。內部架構上，該機採用<strong>8GB 板載 DDR4 記憶體加上一個額外插槽</strong>的設計，最高可擴充至 <strong>40GB 雙通道記憶體</strong>，這是後續世代無法比擬的絕版優勢，大幅提升了未來的升級空間。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/S3mvGM-eS80_180.jpg" /></p><h2>Intel 11代 Xe 核顯與滿血 AV1 硬解實力</h2><p>在處理器與顯卡方面，該機搭載 <strong>Intel Core i5-1135G7</strong> 處理器，內建 <strong>Intel Iris Xe (G7)</strong> 核心顯示卡。作者指出，相較於 AMD 5500U，1135G7 的多核性能雖稍弱，但其核顯性能卻高出 20% 至 30%，並支援<strong>滿血 AV1 格式 8K 硬體解碼</strong>。此外，該機配備了 <strong>53Wh 大容量電池</strong>與 Wi-Fi 6 網卡，支援各類 PD 充電器盲插供電，正常辦公使用可連續運作約 8 小時，續航實力非常扎實。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/S3mvGM-eS80_285.jpg" /></p><h2>BIOS 調教彈性與實機遊戲流暢度測試</h2><p>作者進一步展示了此機型的 BIOS 設定，不僅支援指紋識別、TPM，還可以單獨開關硬體設備、設定電池充電閥值，甚至能在不停機的情況下強制切斷電源連接。在效能實測中，魯大師綜合得分突破 <strong>60 萬分</strong>；而在熱門射擊遊戲<strong>《特戰英豪》（無畏契約）</strong>的 1080p 低畫質實測下，戰鬥畫面能穩定維持在 <strong>120 至 130 幀</strong>左右，證明了這台千元不到的筆電兼具日常辦公與輕度電競的雙重實力。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=S3mvGM-eS80">https://www.youtube.com/watch?v=S3mvGM-eS80</a></p><p>大船货839块的11代G83笔记本8GB板载+可扩展内存 捡垃圾</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/S3mvGM-eS80/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=S3mvGM-eS80">https://www.youtube.com/watch?v=S3mvGM-eS80</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解二手市場中性價比極高的<strong>東芝 G83 第11代筆記型電腦</strong>，分析其為何比其他世代更值得入手。</li><li>詳細解析該機型的硬體亮點，包括<strong>雙雷電4接口</strong>、罕見的<strong>可擴充記憶體設計</strong>以及高達 53Wh 的強勁電池續航力。</li><li>提供實際拆機、魯大師跑分與熱門遊戲《特戰英豪》的實測幀率，為預算有限的文書與輕度娛樂使用者提供務實的選購參考。</li></ul><hr /><h1>摘要</h1><h2>超值撿垃圾神機：東芝 G83 11代規格剖析</h2><p>作者在本段影片中介紹了一款價格僅 839 元的「大船貨」洋垃圾筆電——<strong>東芝 Dynabook G83 第11代</strong>。作者特別提醒觀眾不要買錯型號，因為 G83 雖然涵蓋第8代至第12代，但唯獨<strong>第11代</strong>最值得入手。此機型採用全金屬材質機身與 13 吋輕薄設計，隨機附有保護貼與鍵盤貼，整體外觀維持在約九成新，是二手商務機中極具競爭力的選擇。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/S3mvGM-eS80_95.jpg" /></p><h2>罕見的記憶體擴充與滿配連接接口</h2><p>作者展示了機身周邊極為豐富的連接能力，包括日本商務機標誌性的<strong>免折疊 RJ-45 有線網孔</strong>、Micro SD 插槽、USB-A，以及機身左側的<strong>雙雷電4（Thunderbolt 4）Type-C 接口</strong>與標準 HDMI。內部架構上，該機採用<strong>8GB 板載 DDR4 記憶體加上一個額外插槽</strong>的設計，最高可擴充至 <strong>40GB 雙通道記憶體</strong>，這是後續世代無法比擬的絕版優勢，大幅提升了未來的升級空間。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/S3mvGM-eS80_180.jpg" /></p><h2>Intel 11代 Xe 核顯與滿血 AV1 硬解實力</h2><p>在處理器與顯卡方面，該機搭載 <strong>Intel Core i5-1135G7</strong> 處理器，內建 <strong>Intel Iris Xe (G7)</strong> 核心顯示卡。作者指出，相較於 AMD 5500U，1135G7 的多核性能雖稍弱，但其核顯性能卻高出 20% 至 30%，並支援<strong>滿血 AV1 格式 8K 硬體解碼</strong>。此外，該機配備了 <strong>53Wh 大容量電池</strong>與 Wi-Fi 6 網卡，支援各類 PD 充電器盲插供電，正常辦公使用可連續運作約 8 小時，續航實力非常扎實。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/S3mvGM-eS80_285.jpg" /></p><h2>BIOS 調教彈性與實機遊戲流暢度測試</h2><p>作者進一步展示了此機型的 BIOS 設定，不僅支援指紋識別、TPM，還可以單獨開關硬體設備、設定電池充電閥值，甚至能在不停機的情況下強制切斷電源連接。在效能實測中，魯大師綜合得分突破 <strong>60 萬分</strong>；而在熱門射擊遊戲<strong>《特戰英豪》（無畏契約）</strong>的 1080p 低畫質實測下，戰鬥畫面能穩定維持在 <strong>120 至 130 幀</strong>左右，證明了這台千元不到的筆電兼具日常辦公與輕度電競的雙重實力。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=S3mvGM-eS80">https://www.youtube.com/watch?v=S3mvGM-eS80</a></p><p>大船货839块的11代G83笔记本8GB板载+可扩展内存 捡垃圾</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/S3mvGM-eS80/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=S3mvGM-eS80">https://www.youtube.com/watch?v=S3mvGM-eS80</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解二手市場中性價比極高的<strong>東芝 G83 第11代筆記型電腦</strong>，分析其為何比其他世代更值得入手。</li><li>詳細解析該機型的硬體亮點，包括<strong>雙雷電4接口</strong>、罕見的<strong>可擴充記憶體設計</strong>以及高達 53Wh 的強勁電池續航力。</li><li>提供實際拆機、魯大師跑分與熱門遊戲《特戰英豪》的實測幀率，為預算有限的文書與輕度娛樂使用者提供務實的選購參考。</li></ul><hr /><h1>摘要</h1><h2>超值撿垃圾神機：東芝 G83 11代規格剖析</h2><p>作者在本段影片中介紹了一款價格僅 839 元的「大船貨」洋垃圾筆電——<strong>東芝 Dynabook G83 第11代</strong>。作者特別提醒觀眾不要買錯型號，因為 G83 雖然涵蓋第8代至第12代，但唯獨<strong>第11代</strong>最值得入手。此機型採用全金屬材質機身與 13 吋輕薄設計，隨機附有保護貼與鍵盤貼，整體外觀維持在約九成新，是二手商務機中極具競爭力的選擇。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/S3mvGM-eS80_95.jpg" /></p><h2>罕見的記憶體擴充與滿配連接接口</h2><p>作者展示了機身周邊極為豐富的連接能力，包括日本商務機標誌性的<strong>免折疊 RJ-45 有線網孔</strong>、Micro SD 插槽、USB-A，以及機身左側的<strong>雙雷電4（Thunderbolt 4）Type-C 接口</strong>與標準 HDMI。內部架構上，該機採用<strong>8GB 板載 DDR4 記憶體加上一個額外插槽</strong>的設計，最高可擴充至 <strong>40GB 雙通道記憶體</strong>，這是後續世代無法比擬的絕版優勢，大幅提升了未來的升級空間。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/S3mvGM-eS80_180.jpg" /></p><h2>Intel 11代 Xe 核顯與滿血 AV1 硬解實力</h2><p>在處理器與顯卡方面，該機搭載 <strong>Intel Core i5-1135G7</strong> 處理器，內建 <strong>Intel Iris Xe (G7)</strong> 核心顯示卡。作者指出，相較於 AMD 5500U，1135G7 的多核性能雖稍弱，但其核顯性能卻高出 20% 至 30%，並支援<strong>滿血 AV1 格式 8K 硬體解碼</strong>。此外，該機配備了 <strong>53Wh 大容量電池</strong>與 Wi-Fi 6 網卡，支援各類 PD 充電器盲插供電，正常辦公使用可連續運作約 8 小時，續航實力非常扎實。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/S3mvGM-eS80_285.jpg" /></p><h2>BIOS 調教彈性與實機遊戲流暢度測試</h2><p>作者進一步展示了此機型的 BIOS 設定，不僅支援指紋識別、TPM，還可以單獨開關硬體設備、設定電池充電閥值，甚至能在不停機的情況下強制切斷電源連接。在效能實測中，魯大師綜合得分突破 <strong>60 萬分</strong>；而在熱門射擊遊戲<strong>《特戰英豪》（無畏契約）</strong>的 1080p 低畫質實測下，戰鬥畫面能穩定維持在 <strong>120 至 130 幀</strong>左右，證明了這台千元不到的筆電兼具日常辦公與輕度電競的雙重實力。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=S3mvGM-eS80">https://www.youtube.com/watch?v=S3mvGM-eS80</a></p><p>大船货839块的11代G83笔记本8GB板载+可扩展内存 捡垃圾</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/S3mvGM-eS80/hqdefault.jpg"/>
+      <pubDate>2026-10-25T04:30:04.000Z</pubDate>
+    </item></channel>
 </rss>
