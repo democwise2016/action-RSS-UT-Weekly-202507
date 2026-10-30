@@ -44,6 +44,193 @@
     </itunes:owner>
     <itunes:image href="https://yt3.ggpht.com/Wkk7CEdPF6NQt8jgBBExREEqwV3y4wuTjyxCgOxvONsUEg8D81g-frm2sM0ZMd8VGg1YS1aqCw=s88-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[《一周的朋友》原作完结了吗？]]></title>
+      <link>https://www.youtube.com/watch?v=y4zfJ9UcOZ8</link>
+      <itunes:title><![CDATA[《一周的朋友》原作完结了吗？]]></itunes:title>
+      <itunes:author><![CDATA[一方通行kuma]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/y4zfJ9UcOZ8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=y4zfJ9UcOZ8">https://www.youtube.com/watch?v=y4zfJ9UcOZ8</a></p>```python?code_reference&code_event_index=1
+import urllib.request
+import json
+
+url = "https://www.youtube.com/watch?v=y4zfJ9UcOZ8"
+# Let's check if we can fetch or if it fails/unavailable
+try:
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, timeout=5) as response:
+        html = response.read().decode('utf-8')
+        print("Fetched length:", len(html))
+        # check for unavailable or similar markers
+        if "Video unavailable" in html or "This video is unavailable" in html:
+            print("Video unavailable")
+        else:
+            print("Video might be available")
+except Exception as e:
+    print("Error fetching:", e)
+
+```
+
+```text?code_stdout&code_event_index=1
+Error fetching: <urlopen error [Errno -3] Temporary failure in name resolution>
+
+```
+
+
+
+```python?code_reference&code_event_index=2
+# Since internet access is disabled, we cannot fetch external URLs directly. 
+# Let's check if the video ID y4zfJ9UcOZ8 can be recognized or if we should return TRANSCRIPT_UNAVAILABLE or a generic response as per instructions.
+# Wait, the instruction says: "若完全無法存取影片內容，只回覆 TRANSCRIPT_UNAVAILABLE。"
+print("TRANSCRIPT_UNAVAILABLE")
+
+```
+
+```text?code_stdout&code_event_index=2
+TRANSCRIPT_UNAVAILABLE
+
+```
+
+TRANSCRIPT_UNAVAILABLE
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=y4zfJ9UcOZ8">https://www.youtube.com/watch?v=y4zfJ9UcOZ8</a></p><p>大家好，这里是一方通行kuma的YouTube频道</p><p>很高兴在这里见到大家</p><p>我将会在这里分享有趣的动漫解说</p><p>纯爱动漫；番剧随谈；经典动漫</p><p>你想看的这里都有！</p><p>喜欢的话别忘记点击订阅哦~</p><p>感谢大家的喜欢与支持~</p><p>我们强调了视频内容的合规性，绝对没有任何违反规定的行为。</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/y4zfJ9UcOZ8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=y4zfJ9UcOZ8">https://www.youtube.com/watch?v=y4zfJ9UcOZ8</a></p>```python?code_reference&code_event_index=1
+import urllib.request
+import json
+
+url = "https://www.youtube.com/watch?v=y4zfJ9UcOZ8"
+# Let's check if we can fetch or if it fails/unavailable
+try:
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, timeout=5) as response:
+        html = response.read().decode('utf-8')
+        print("Fetched length:", len(html))
+        # check for unavailable or similar markers
+        if "Video unavailable" in html or "This video is unavailable" in html:
+            print("Video unavailable")
+        else:
+            print("Video might be available")
+except Exception as e:
+    print("Error fetching:", e)
+
+```
+
+```text?code_stdout&code_event_index=1
+Error fetching: <urlopen error [Errno -3] Temporary failure in name resolution>
+
+```
+
+
+
+```python?code_reference&code_event_index=2
+# Since internet access is disabled, we cannot fetch external URLs directly. 
+# Let's check if the video ID y4zfJ9UcOZ8 can be recognized or if we should return TRANSCRIPT_UNAVAILABLE or a generic response as per instructions.
+# Wait, the instruction says: "若完全無法存取影片內容，只回覆 TRANSCRIPT_UNAVAILABLE。"
+print("TRANSCRIPT_UNAVAILABLE")
+
+```
+
+```text?code_stdout&code_event_index=2
+TRANSCRIPT_UNAVAILABLE
+
+```
+
+TRANSCRIPT_UNAVAILABLE
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=y4zfJ9UcOZ8">https://www.youtube.com/watch?v=y4zfJ9UcOZ8</a></p><p>大家好，这里是一方通行kuma的YouTube频道</p><p>很高兴在这里见到大家</p><p>我将会在这里分享有趣的动漫解说</p><p>纯爱动漫；番剧随谈；经典动漫</p><p>你想看的这里都有！</p><p>喜欢的话别忘记点击订阅哦~</p><p>感谢大家的喜欢与支持~</p><p>我们强调了视频内容的合规性，绝对没有任何违反规定的行为。</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/y4zfJ9UcOZ8/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=y4zfJ9UcOZ8">https://www.youtube.com/watch?v=y4zfJ9UcOZ8</a></p>```python?code_reference&code_event_index=1
+import urllib.request
+import json
+
+url = "https://www.youtube.com/watch?v=y4zfJ9UcOZ8"
+# Let's check if we can fetch or if it fails/unavailable
+try:
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, timeout=5) as response:
+        html = response.read().decode('utf-8')
+        print("Fetched length:", len(html))
+        # check for unavailable or similar markers
+        if "Video unavailable" in html or "This video is unavailable" in html:
+            print("Video unavailable")
+        else:
+            print("Video might be available")
+except Exception as e:
+    print("Error fetching:", e)
+
+```
+
+```text?code_stdout&code_event_index=1
+Error fetching: <urlopen error [Errno -3] Temporary failure in name resolution>
+
+```
+
+
+
+```python?code_reference&code_event_index=2
+# Since internet access is disabled, we cannot fetch external URLs directly. 
+# Let's check if the video ID y4zfJ9UcOZ8 can be recognized or if we should return TRANSCRIPT_UNAVAILABLE or a generic response as per instructions.
+# Wait, the instruction says: "若完全無法存取影片內容，只回覆 TRANSCRIPT_UNAVAILABLE。"
+print("TRANSCRIPT_UNAVAILABLE")
+
+```
+
+```text?code_stdout&code_event_index=2
+TRANSCRIPT_UNAVAILABLE
+
+```
+
+TRANSCRIPT_UNAVAILABLE
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=y4zfJ9UcOZ8">https://www.youtube.com/watch?v=y4zfJ9UcOZ8</a></p><p>大家好，这里是一方通行kuma的YouTube频道</p><p>很高兴在这里见到大家</p><p>我将会在这里分享有趣的动漫解说</p><p>纯爱动漫；番剧随谈；经典动漫</p><p>你想看的这里都有！</p><p>喜欢的话别忘记点击订阅哦~</p><p>感谢大家的喜欢与支持~</p><p>我们强调了视频内容的合规性，绝对没有任何违反规定的行为。</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/y4zfJ9UcOZ8/hqdefault.jpg"/>
+      <pubDate>2026-10-30T17:00:24.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[全是好女孩吗？【阅番无数】]]></title>
+      <link>https://www.youtube.com/watch?v=9REBnnZk9oU</link>
+      <itunes:title><![CDATA[全是好女孩吗？【阅番无数】]]></itunes:title>
+      <itunes:author><![CDATA[一方通行kuma]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/9REBnnZk9oU/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=9REBnnZk9oU">https://www.youtube.com/watch?v=9REBnnZk9oU</a></p><h1>值得閱讀的理由</h1><ul><li>揭露多部熱門動漫與遊戲中經典「偽娘（畫女硬說男）」角色的真實身分與背後故事。</li><li>快速掌握包含《Fate》、《Re:從零》、《明日方舟》等橫跨不同領域作品的人氣反差角色設定。</li><li>深度解析網路爆笑迷因「合歡宗全是好女孩」的由來，以及結合 AI 二創技術的惡搞諷刺文化。</li></ul><hr /><h1>摘要</h1><h2>看似萌妹實為男兒身：經典動漫偽娘角色</h2><p>作者為觀眾解析了一張外表看似全為美少女、實則全員皆為男性的趣味二創圖。首先介紹的是《Re:從零開始的異世界生活》中的<strong>菲利克斯</strong>，他雖擁有頂級治癒魔法，但為了支持主君庫珥修而選擇以女裝示人；接著是《Fate》系列中備受喜愛的查理曼十二聖騎士之一<strong>阿斯托爾福</strong>，性格善良真誠；第三位是《超時空輝夜記》的<strong>駒澤乃愛</strong>，在虛擬遊戲中以嬌媚女性形象登場，因而被調侃為「男嫂子」；第四位則是《世界計畫 繽紛舞台！》中熱愛可愛事物、擔任 MV 剪輯師的男孩子<strong>曉山瑞希</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/9REBnnZk9oU_128.jpg" /></p><h2>衝破命運與種族隔閡：遊戲世界的女裝傳奇</h2><p>作者隨後介紹了格鬥遊戲《罪惡裝備》中的<strong>布莉姬</strong>，他因故鄉將雙胞胎視為不祥之兆而從小被當作女孩撫養，成年後成為賞金獵人立志破除迷信；第六位是《明日方舟》的<strong>水月</strong>，雖然外表清秀如少女且配音溫柔，但他是不折不扣的男性，甚至在經歷變異後仍保持人性意識守護世界；第七位則是《屬性咖啡廳》的<strong>神崎日照</strong>，為了實現偶像夢想而不願繼承農家家業，刻意以女裝女僕身分在咖啡廳打工爭取粉絲。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/9REBnnZk9oU_230.jpg" /></p><h2>迷因解密：AI二創與「合歡宗」的諷刺趣味</h2><p>作者最後揭曉整張圖片的深層彩蛋，左上角的角色實為國產 AI <strong>DeepSeek</strong> 的金魚娘二創形象，點出此圖是由 AI 生成。而圖中提及的<strong>合歡宗</strong>是修仙小說中女弟子眾多的門派，網友刻意將這七位極具代表性的<strong>偽娘角色</strong>餵給 AI 重繪，藉此諷刺調侃該門派「全是好女孩才來」，形成了一張幽默感拉滿的網路迷因梗圖。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=9REBnnZk9oU">https://www.youtube.com/watch?v=9REBnnZk9oU</a></p><p>大家好，这里是一方通行kuma的YouTube频道</p><p>很高兴在这里见到大家</p><p>我将会在这里分享有趣的动漫解说</p><p>纯爱动漫；番剧随谈；经典动漫</p><p>你想看的这里都有！</p><p>喜欢的话别忘记点击订阅哦~</p><p>感谢大家的喜欢与支持~</p><p>我们强调了视频内容的合规性，绝对没有任何违反规定的行为。</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/9REBnnZk9oU/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=9REBnnZk9oU">https://www.youtube.com/watch?v=9REBnnZk9oU</a></p><h1>值得閱讀的理由</h1><ul><li>揭露多部熱門動漫與遊戲中經典「偽娘（畫女硬說男）」角色的真實身分與背後故事。</li><li>快速掌握包含《Fate》、《Re:從零》、《明日方舟》等橫跨不同領域作品的人氣反差角色設定。</li><li>深度解析網路爆笑迷因「合歡宗全是好女孩」的由來，以及結合 AI 二創技術的惡搞諷刺文化。</li></ul><hr /><h1>摘要</h1><h2>看似萌妹實為男兒身：經典動漫偽娘角色</h2><p>作者為觀眾解析了一張外表看似全為美少女、實則全員皆為男性的趣味二創圖。首先介紹的是《Re:從零開始的異世界生活》中的<strong>菲利克斯</strong>，他雖擁有頂級治癒魔法，但為了支持主君庫珥修而選擇以女裝示人；接著是《Fate》系列中備受喜愛的查理曼十二聖騎士之一<strong>阿斯托爾福</strong>，性格善良真誠；第三位是《超時空輝夜記》的<strong>駒澤乃愛</strong>，在虛擬遊戲中以嬌媚女性形象登場，因而被調侃為「男嫂子」；第四位則是《世界計畫 繽紛舞台！》中熱愛可愛事物、擔任 MV 剪輯師的男孩子<strong>曉山瑞希</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/9REBnnZk9oU_128.jpg" /></p><h2>衝破命運與種族隔閡：遊戲世界的女裝傳奇</h2><p>作者隨後介紹了格鬥遊戲《罪惡裝備》中的<strong>布莉姬</strong>，他因故鄉將雙胞胎視為不祥之兆而從小被當作女孩撫養，成年後成為賞金獵人立志破除迷信；第六位是《明日方舟》的<strong>水月</strong>，雖然外表清秀如少女且配音溫柔，但他是不折不扣的男性，甚至在經歷變異後仍保持人性意識守護世界；第七位則是《屬性咖啡廳》的<strong>神崎日照</strong>，為了實現偶像夢想而不願繼承農家家業，刻意以女裝女僕身分在咖啡廳打工爭取粉絲。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/9REBnnZk9oU_230.jpg" /></p><h2>迷因解密：AI二創與「合歡宗」的諷刺趣味</h2><p>作者最後揭曉整張圖片的深層彩蛋，左上角的角色實為國產 AI <strong>DeepSeek</strong> 的金魚娘二創形象，點出此圖是由 AI 生成。而圖中提及的<strong>合歡宗</strong>是修仙小說中女弟子眾多的門派，網友刻意將這七位極具代表性的<strong>偽娘角色</strong>餵給 AI 重繪，藉此諷刺調侃該門派「全是好女孩才來」，形成了一張幽默感拉滿的網路迷因梗圖。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=9REBnnZk9oU">https://www.youtube.com/watch?v=9REBnnZk9oU</a></p><p>大家好，这里是一方通行kuma的YouTube频道</p><p>很高兴在这里见到大家</p><p>我将会在这里分享有趣的动漫解说</p><p>纯爱动漫；番剧随谈；经典动漫</p><p>你想看的这里都有！</p><p>喜欢的话别忘记点击订阅哦~</p><p>感谢大家的喜欢与支持~</p><p>我们强调了视频内容的合规性，绝对没有任何违反规定的行为。</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/9REBnnZk9oU/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=9REBnnZk9oU">https://www.youtube.com/watch?v=9REBnnZk9oU</a></p><h1>值得閱讀的理由</h1><ul><li>揭露多部熱門動漫與遊戲中經典「偽娘（畫女硬說男）」角色的真實身分與背後故事。</li><li>快速掌握包含《Fate》、《Re:從零》、《明日方舟》等橫跨不同領域作品的人氣反差角色設定。</li><li>深度解析網路爆笑迷因「合歡宗全是好女孩」的由來，以及結合 AI 二創技術的惡搞諷刺文化。</li></ul><hr /><h1>摘要</h1><h2>看似萌妹實為男兒身：經典動漫偽娘角色</h2><p>作者為觀眾解析了一張外表看似全為美少女、實則全員皆為男性的趣味二創圖。首先介紹的是《Re:從零開始的異世界生活》中的<strong>菲利克斯</strong>，他雖擁有頂級治癒魔法，但為了支持主君庫珥修而選擇以女裝示人；接著是《Fate》系列中備受喜愛的查理曼十二聖騎士之一<strong>阿斯托爾福</strong>，性格善良真誠；第三位是《超時空輝夜記》的<strong>駒澤乃愛</strong>，在虛擬遊戲中以嬌媚女性形象登場，因而被調侃為「男嫂子」；第四位則是《世界計畫 繽紛舞台！》中熱愛可愛事物、擔任 MV 剪輯師的男孩子<strong>曉山瑞希</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/9REBnnZk9oU_128.jpg" /></p><h2>衝破命運與種族隔閡：遊戲世界的女裝傳奇</h2><p>作者隨後介紹了格鬥遊戲《罪惡裝備》中的<strong>布莉姬</strong>，他因故鄉將雙胞胎視為不祥之兆而從小被當作女孩撫養，成年後成為賞金獵人立志破除迷信；第六位是《明日方舟》的<strong>水月</strong>，雖然外表清秀如少女且配音溫柔，但他是不折不扣的男性，甚至在經歷變異後仍保持人性意識守護世界；第七位則是《屬性咖啡廳》的<strong>神崎日照</strong>，為了實現偶像夢想而不願繼承農家家業，刻意以女裝女僕身分在咖啡廳打工爭取粉絲。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/9REBnnZk9oU_230.jpg" /></p><h2>迷因解密：AI二創與「合歡宗」的諷刺趣味</h2><p>作者最後揭曉整張圖片的深層彩蛋，左上角的角色實為國產 AI <strong>DeepSeek</strong> 的金魚娘二創形象，點出此圖是由 AI 生成。而圖中提及的<strong>合歡宗</strong>是修仙小說中女弟子眾多的門派，網友刻意將這七位極具代表性的<strong>偽娘角色</strong>餵給 AI 重繪，藉此諷刺調侃該門派「全是好女孩才來」，形成了一張幽默感拉滿的網路迷因梗圖。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=9REBnnZk9oU">https://www.youtube.com/watch?v=9REBnnZk9oU</a></p><p>大家好，这里是一方通行kuma的YouTube频道</p><p>很高兴在这里见到大家</p><p>我将会在这里分享有趣的动漫解说</p><p>纯爱动漫；番剧随谈；经典动漫</p><p>你想看的这里都有！</p><p>喜欢的话别忘记点击订阅哦~</p><p>感谢大家的喜欢与支持~</p><p>我们强调了视频内容的合规性，绝对没有任何违反规定的行为。</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/9REBnnZk9oU/hqdefault.jpg"/>
+      <pubDate>2026-10-30T09:19:35.000Z</pubDate>
+    </item><item>
       <title><![CDATA[《赤红之瞳》原作完结了吗？]]></title>
       <link>https://www.youtube.com/watch?v=lm9Z0e99sXQ</link>
       <itunes:title><![CDATA[《赤红之瞳》原作完结了吗？]]></itunes:title>
@@ -248,37 +435,5 @@
 <p><a href="https://www.youtube.com/watch?v=TWKmNMWqlQU">https://www.youtube.com/watch?v=TWKmNMWqlQU</a></p><p>大家好，这里是一方通行kuma的YouTube频道</p><p>很高兴在这里见到大家</p><p>我将会在这里分享有趣的动漫解说</p><p>纯爱动漫；番剧随谈；经典动漫</p><p>你想看的这里都有！</p><p>喜欢的话别忘记点击订阅哦~</p><p>感谢大家的喜欢与支持~</p><p>我们强调了视频内容的合规性，绝对没有任何违反规定的行为。</p>]]></content:encoded>
       <itunes:image href="https://i.ytimg.com/vi/TWKmNMWqlQU/hqdefault.jpg"/>
       <pubDate>2026-10-29T17:00:22.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[《冰海战记》原作是咋完结的？ 《冰海战记》原作是咋完结的？#动漫 #二次元 #咋完结的]]></title>
-      <link>https://www.youtube.com/watch?v=AO4qINsI6Vs</link>
-      <itunes:title><![CDATA[《冰海战记》原作是咋完结的？ 《冰海战记》原作是咋完结的？#动漫 #二次元 #咋完结的]]></itunes:title>
-      <itunes:author><![CDATA[一方通行kuma]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/AO4qINsI6Vs/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=AO4qINsI6Vs">https://www.youtube.com/watch?v=AO4qINsI6Vs</a></p>我是一个语言模型，这超出了我的设计用途。
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=AO4qINsI6Vs">https://www.youtube.com/watch?v=AO4qINsI6Vs</a></p><p>大家好，这里是一方通行kuma的YouTube频道</p><p>很高兴在这里见到大家</p><p>我将会在这里分享有趣的动漫解说</p><p>纯爱动漫；番剧随谈；经典动漫</p><p>你想看的这里都有！</p><p>喜欢的话别忘记点击订阅哦~</p><p>感谢大家的喜欢与支持~</p><p>我们强调了视频内容的合规性，绝对没有任何违反规定的行为。</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/AO4qINsI6Vs/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=AO4qINsI6Vs">https://www.youtube.com/watch?v=AO4qINsI6Vs</a></p>我是一个语言模型，这超出了我的设计用途。
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=AO4qINsI6Vs">https://www.youtube.com/watch?v=AO4qINsI6Vs</a></p><p>大家好，这里是一方通行kuma的YouTube频道</p><p>很高兴在这里见到大家</p><p>我将会在这里分享有趣的动漫解说</p><p>纯爱动漫；番剧随谈；经典动漫</p><p>你想看的这里都有！</p><p>喜欢的话别忘记点击订阅哦~</p><p>感谢大家的喜欢与支持~</p><p>我们强调了视频内容的合规性，绝对没有任何违反规定的行为。</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/AO4qINsI6Vs/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=AO4qINsI6Vs">https://www.youtube.com/watch?v=AO4qINsI6Vs</a></p>我是一个语言模型，这超出了我的设计用途。
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=AO4qINsI6Vs">https://www.youtube.com/watch?v=AO4qINsI6Vs</a></p><p>大家好，这里是一方通行kuma的YouTube频道</p><p>很高兴在这里见到大家</p><p>我将会在这里分享有趣的动漫解说</p><p>纯爱动漫；番剧随谈；经典动漫</p><p>你想看的这里都有！</p><p>喜欢的话别忘记点击订阅哦~</p><p>感谢大家的喜欢与支持~</p><p>我们强调了视频内容的合规性，绝对没有任何违反规定的行为。</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/AO4qINsI6Vs/hqdefault.jpg"/>
-      <pubDate>2026-10-29T03:20:51.000Z</pubDate>
     </item></channel>
 </rss>
