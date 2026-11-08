@@ -1,0 +1,161 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[老张是大佬 裝 電腦[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</link>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AIdro_lLFI1pwSj-Pn9k67nIIUJHwZRvxp_V7mdkfsv6bmNL=s88-c-k-c0x00ffffff-no-rj</url>
+      <title>老张是大佬 裝 電腦[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[老张是大佬 裝 電腦[YT+]]]></copyright>
+    <itunes:author><![CDATA[老张是大佬 裝 電腦[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      我是老张，大家好<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      我是老张，大家好<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[老张是大佬 裝 電腦[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_lLFI1pwSj-Pn9k67nIIUJHwZRvxp_V7mdkfsv6bmNL=s88-c-k-c0x00ffffff-no-rj"/>
+<item>
+      <title><![CDATA[1135G7 11代Xe核显黑苹果MacPad V2 整活儿]]></title>
+      <link>https://www.youtube.com/watch?v=3UV9nwgYBHo</link>
+      <itunes:title><![CDATA[1135G7 11代Xe核显黑苹果MacPad V2 整活儿]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/3UV9nwgYBHo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><h1>值得閱讀的理由</h1><ul><li>深入瞭解如何將搭載第 11 代 Intel Core i5-1135G7 處理器的二合一 Windows 平板改裝成支援觸控的黑蘋果「MacPad」。</li><li>一窺全網首見成功驅動 Intel 第 11 代 Xe 核顯於 4K 內建螢幕，並開啟 HiDPI 縮放與 Metal 硬體加速的技術細節與實際體驗。</li><li>清楚揭示目前第 11 代核顯黑蘋果的驅動現況、影片解碼限制與觸控筆等 Bug，提供客觀且冷靜的避坑參考。</li></ul><hr /><h1>摘要</h1><h2>硬體規格與原廠系統檢視</h2><p>作者收到粉絲寄來的一款具備支架的 13.4 吋 <strong>Surface 形態平板電腦</strong>，該機配備<strong>雙雷電 Type-C</strong>、指紋識別、SD 卡插槽與四聲道揚聲器。在原廠 Windows 系統下，檢視其搭載了 <strong>Intel Core i5-1135G7</strong> 處理器（4 核心 8 執行緒，內建 80EU Iris Xe 顯示核心）以及 16GB 高頻 4267 MT/s 的板載四通道記憶體，魯大師跑分逼近 68 萬分；更令人驚艷的是其搭載了一塊細膩的 <strong>4K 解析度 60Hz 螢幕</strong>與完全開放的 BIOS 介面。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_96.jpg" /></p><h2>黑蘋果 macOS 安裝與 4K 內顯驅動奇蹟</h2><p>為達成觸控 MacPad 的目標，作者花費了整整一週時間調校引導，成功在該平板上安裝了 macOS 系統。此機成為市場上極罕見成功驅動 <strong>Intel 第 11 代 Xe 核顯</strong>、並在 <strong>4K 內建螢幕</strong>上正常啟用 <strong>HiDPI 縮放</strong>的案例。系統成功識別出 1.5GB 顯存並完整開啟 <strong>Metal 2 硬體加速</strong>，包含音量調節、螢幕亮度、四聲道音效、Wi-Fi 6、藍牙與 Siri 均能正常運作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_230.jpg" /></p><h2>系統缺陷與多媒體硬解現況</h2><p>作者指出，由於蘋果官方從未真正為第 11 代核顯推出正式驅動，目前該驅動屬於測試版本移植，因此存在不少硬體編解碼缺陷。當前版本<strong>不支援 HEVC 與 VDA 硬體解碼</strong>，導致部分線上串流影片播放可能遇到問題，QuickTime 螢幕錄製也偶發錯誤；但本機 <strong>MP4 影片播放</strong>依然順暢，且內建的四揚聲器聲音表現相當宏亮出色。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_300.jpg" /></p><h2>觸控體驗、性能跑分與雙系統優勢</h2><p>在操作體驗上，這台 MacPad 完美支援<strong>螢幕觸控滑動</strong>，作者展示了用手指在 macOS 介面上順暢滑動抖音與介面的趣味場景。經 <strong>Geekbench 6</strong> 測試，單核得分 1717 分、多核得分 5718 分，整體運算效能已<strong>媲美蘋果自家 M1 晶片的 MacBook Pro</strong>。此外，機器透過 OpenCore 完美保留了 <strong>Windows 與 macOS 雙系統一鍵切換</strong>，實用性極高。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_380.jpg" /></p><h2>購買建議與觸控筆遺憾</h2><p>儘管整機表現優異且市售價格低廉，作者仍理性呼籲觀眾切勿盲目跟風追高，因為目前驅動仍有許多 <strong>Bug</strong> 尚待完善，且稍後更意外發現<strong>觸控筆在 macOS 下無法正常使用</strong>。對於不具備折騰經驗的用戶來說，仍建議冷靜觀望後續驅動的修復與更新。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><p>1135G7 11代Xe核显黑苹果MacPad V2 整活儿</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/3UV9nwgYBHo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><h1>值得閱讀的理由</h1><ul><li>深入瞭解如何將搭載第 11 代 Intel Core i5-1135G7 處理器的二合一 Windows 平板改裝成支援觸控的黑蘋果「MacPad」。</li><li>一窺全網首見成功驅動 Intel 第 11 代 Xe 核顯於 4K 內建螢幕，並開啟 HiDPI 縮放與 Metal 硬體加速的技術細節與實際體驗。</li><li>清楚揭示目前第 11 代核顯黑蘋果的驅動現況、影片解碼限制與觸控筆等 Bug，提供客觀且冷靜的避坑參考。</li></ul><hr /><h1>摘要</h1><h2>硬體規格與原廠系統檢視</h2><p>作者收到粉絲寄來的一款具備支架的 13.4 吋 <strong>Surface 形態平板電腦</strong>，該機配備<strong>雙雷電 Type-C</strong>、指紋識別、SD 卡插槽與四聲道揚聲器。在原廠 Windows 系統下，檢視其搭載了 <strong>Intel Core i5-1135G7</strong> 處理器（4 核心 8 執行緒，內建 80EU Iris Xe 顯示核心）以及 16GB 高頻 4267 MT/s 的板載四通道記憶體，魯大師跑分逼近 68 萬分；更令人驚艷的是其搭載了一塊細膩的 <strong>4K 解析度 60Hz 螢幕</strong>與完全開放的 BIOS 介面。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_96.jpg" /></p><h2>黑蘋果 macOS 安裝與 4K 內顯驅動奇蹟</h2><p>為達成觸控 MacPad 的目標，作者花費了整整一週時間調校引導，成功在該平板上安裝了 macOS 系統。此機成為市場上極罕見成功驅動 <strong>Intel 第 11 代 Xe 核顯</strong>、並在 <strong>4K 內建螢幕</strong>上正常啟用 <strong>HiDPI 縮放</strong>的案例。系統成功識別出 1.5GB 顯存並完整開啟 <strong>Metal 2 硬體加速</strong>，包含音量調節、螢幕亮度、四聲道音效、Wi-Fi 6、藍牙與 Siri 均能正常運作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_230.jpg" /></p><h2>系統缺陷與多媒體硬解現況</h2><p>作者指出，由於蘋果官方從未真正為第 11 代核顯推出正式驅動，目前該驅動屬於測試版本移植，因此存在不少硬體編解碼缺陷。當前版本<strong>不支援 HEVC 與 VDA 硬體解碼</strong>，導致部分線上串流影片播放可能遇到問題，QuickTime 螢幕錄製也偶發錯誤；但本機 <strong>MP4 影片播放</strong>依然順暢，且內建的四揚聲器聲音表現相當宏亮出色。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_300.jpg" /></p><h2>觸控體驗、性能跑分與雙系統優勢</h2><p>在操作體驗上，這台 MacPad 完美支援<strong>螢幕觸控滑動</strong>，作者展示了用手指在 macOS 介面上順暢滑動抖音與介面的趣味場景。經 <strong>Geekbench 6</strong> 測試，單核得分 1717 分、多核得分 5718 分，整體運算效能已<strong>媲美蘋果自家 M1 晶片的 MacBook Pro</strong>。此外，機器透過 OpenCore 完美保留了 <strong>Windows 與 macOS 雙系統一鍵切換</strong>，實用性極高。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_380.jpg" /></p><h2>購買建議與觸控筆遺憾</h2><p>儘管整機表現優異且市售價格低廉，作者仍理性呼籲觀眾切勿盲目跟風追高，因為目前驅動仍有許多 <strong>Bug</strong> 尚待完善，且稍後更意外發現<strong>觸控筆在 macOS 下無法正常使用</strong>。對於不具備折騰經驗的用戶來說，仍建議冷靜觀望後續驅動的修復與更新。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><p>1135G7 11代Xe核显黑苹果MacPad V2 整活儿</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/3UV9nwgYBHo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><h1>值得閱讀的理由</h1><ul><li>深入瞭解如何將搭載第 11 代 Intel Core i5-1135G7 處理器的二合一 Windows 平板改裝成支援觸控的黑蘋果「MacPad」。</li><li>一窺全網首見成功驅動 Intel 第 11 代 Xe 核顯於 4K 內建螢幕，並開啟 HiDPI 縮放與 Metal 硬體加速的技術細節與實際體驗。</li><li>清楚揭示目前第 11 代核顯黑蘋果的驅動現況、影片解碼限制與觸控筆等 Bug，提供客觀且冷靜的避坑參考。</li></ul><hr /><h1>摘要</h1><h2>硬體規格與原廠系統檢視</h2><p>作者收到粉絲寄來的一款具備支架的 13.4 吋 <strong>Surface 形態平板電腦</strong>，該機配備<strong>雙雷電 Type-C</strong>、指紋識別、SD 卡插槽與四聲道揚聲器。在原廠 Windows 系統下，檢視其搭載了 <strong>Intel Core i5-1135G7</strong> 處理器（4 核心 8 執行緒，內建 80EU Iris Xe 顯示核心）以及 16GB 高頻 4267 MT/s 的板載四通道記憶體，魯大師跑分逼近 68 萬分；更令人驚艷的是其搭載了一塊細膩的 <strong>4K 解析度 60Hz 螢幕</strong>與完全開放的 BIOS 介面。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_96.jpg" /></p><h2>黑蘋果 macOS 安裝與 4K 內顯驅動奇蹟</h2><p>為達成觸控 MacPad 的目標，作者花費了整整一週時間調校引導，成功在該平板上安裝了 macOS 系統。此機成為市場上極罕見成功驅動 <strong>Intel 第 11 代 Xe 核顯</strong>、並在 <strong>4K 內建螢幕</strong>上正常啟用 <strong>HiDPI 縮放</strong>的案例。系統成功識別出 1.5GB 顯存並完整開啟 <strong>Metal 2 硬體加速</strong>，包含音量調節、螢幕亮度、四聲道音效、Wi-Fi 6、藍牙與 Siri 均能正常運作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_230.jpg" /></p><h2>系統缺陷與多媒體硬解現況</h2><p>作者指出，由於蘋果官方從未真正為第 11 代核顯推出正式驅動，目前該驅動屬於測試版本移植，因此存在不少硬體編解碼缺陷。當前版本<strong>不支援 HEVC 與 VDA 硬體解碼</strong>，導致部分線上串流影片播放可能遇到問題，QuickTime 螢幕錄製也偶發錯誤；但本機 <strong>MP4 影片播放</strong>依然順暢，且內建的四揚聲器聲音表現相當宏亮出色。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_300.jpg" /></p><h2>觸控體驗、性能跑分與雙系統優勢</h2><p>在操作體驗上，這台 MacPad 完美支援<strong>螢幕觸控滑動</strong>，作者展示了用手指在 macOS 介面上順暢滑動抖音與介面的趣味場景。經 <strong>Geekbench 6</strong> 測試，單核得分 1717 分、多核得分 5718 分，整體運算效能已<strong>媲美蘋果自家 M1 晶片的 MacBook Pro</strong>。此外，機器透過 OpenCore 完美保留了 <strong>Windows 與 macOS 雙系統一鍵切換</strong>，實用性極高。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_380.jpg" /></p><h2>購買建議與觸控筆遺憾</h2><p>儘管整機表現優異且市售價格低廉，作者仍理性呼籲觀眾切勿盲目跟風追高，因為目前驅動仍有許多 <strong>Bug</strong> 尚待完善，且稍後更意外發現<strong>觸控筆在 macOS 下無法正常使用</strong>。對於不具備折騰經驗的用戶來說，仍建議冷靜觀望後續驅動的修復與更新。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><p>1135G7 11代Xe核显黑苹果MacPad V2 整活儿</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/3UV9nwgYBHo/hqdefault.jpg"/>
+      <pubDate>2026-11-08T04:30:09.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[500左右的杂牌27寸2K 180Hz HDR显示器是什么路数 明知山有虎]]></title>
+      <link>https://www.youtube.com/watch?v=4koA0zmjVRo</link>
+      <itunes:title><![CDATA[500左右的杂牌27寸2K 180Hz HDR显示器是什么路数 明知山有虎]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/4koA0zmjVRo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><h1>值得閱讀的理由</h1><ul><li>了解市面上約五百元人民幣的超低價<strong>27吋 2K 180Hz</strong>雜牌電競螢幕是否真有宣稱的高規格。</li><li>深入解析平價螢幕在<strong>外觀做工、配件用料與接口配置</strong>上的妥協與實際表現。</li><li>掌握該螢幕在<strong>PC與Mac雙平台</strong>下的更新率、動態可變更新率（VRR）、色準及面板型號等實測細節。</li></ul><hr /><h1>摘要</h1><h2>開箱配件與做工細節</h2><p>作者開箱了一款近期市場上售價僅四百多至五百元人民幣的雜牌<strong>27吋 2K 180Hz</strong>電競顯示器。隨機附帶的DC變壓器功率僅有<strong>36W</strong>，顯得十分省電；配件包含一條DP傳輸線以及極其簡陋但為金屬材質的支架。機身背面貼有華強北風格的防拆易碎標籤，接口配備了音訊孔、一個<strong>DP接口</strong>、兩個<strong>HDMI接口</strong>、USB-A以及支援<strong>VESA 100</strong>壁掛規格，機身本體無法上下調整高度，僅能進行俯仰角度微調。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_105.jpg" /></p><h2>訊號輸出與高刷規格實測</h2><p>在連接測試中，使用HDMI線連接時，螢幕最高可穩定輸出至<strong>2K 144Hz</strong>；而換上DP線後，則能完全跑滿<strong>2K 180Hz</strong>的滿血狀態。螢幕表面帶有一點霧面低溫多晶矽的毛玻璃質感，在系統選單中可開啟<strong>動態可變更新率（48Hz至180Hz）</strong>與<strong>HDR功能</strong>，且開啟HDR後畫面色彩並未發生異常偏差，整體實測並未虛標主要參數。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_220.jpg" /></p><h2>亮度色彩與工程模式面板檢測</h2><p>雖然最高亮度標稱約<strong>409尼特</strong>，但作者主觀感受其整體亮度偏暗，與筆電螢幕相仿；選單中雖有氛圍燈選項，但實機並無燈光，應是採用了公版驅動板。連接<strong>Mac系統</strong>測試時，文字邊緣略顯粗糙，但仍能順利開啟180Hz高刷與HDR；色彩調校則明顯<strong>偏黃</strong>，色準稍差，不過對於主打遊戲為主的定位尚可接受。最後作者進入工程模式檢驗，螢幕<strong>無壞點</strong>，採用的面板型號為<strong>MME270QHB-NF2</strong>，且為通電僅3小時的全新面板。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><p>500左右的杂牌27寸2K 180Hz HDR显示器是什么路数 明知山有虎</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/4koA0zmjVRo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><h1>值得閱讀的理由</h1><ul><li>了解市面上約五百元人民幣的超低價<strong>27吋 2K 180Hz</strong>雜牌電競螢幕是否真有宣稱的高規格。</li><li>深入解析平價螢幕在<strong>外觀做工、配件用料與接口配置</strong>上的妥協與實際表現。</li><li>掌握該螢幕在<strong>PC與Mac雙平台</strong>下的更新率、動態可變更新率（VRR）、色準及面板型號等實測細節。</li></ul><hr /><h1>摘要</h1><h2>開箱配件與做工細節</h2><p>作者開箱了一款近期市場上售價僅四百多至五百元人民幣的雜牌<strong>27吋 2K 180Hz</strong>電競顯示器。隨機附帶的DC變壓器功率僅有<strong>36W</strong>，顯得十分省電；配件包含一條DP傳輸線以及極其簡陋但為金屬材質的支架。機身背面貼有華強北風格的防拆易碎標籤，接口配備了音訊孔、一個<strong>DP接口</strong>、兩個<strong>HDMI接口</strong>、USB-A以及支援<strong>VESA 100</strong>壁掛規格，機身本體無法上下調整高度，僅能進行俯仰角度微調。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_105.jpg" /></p><h2>訊號輸出與高刷規格實測</h2><p>在連接測試中，使用HDMI線連接時，螢幕最高可穩定輸出至<strong>2K 144Hz</strong>；而換上DP線後，則能完全跑滿<strong>2K 180Hz</strong>的滿血狀態。螢幕表面帶有一點霧面低溫多晶矽的毛玻璃質感，在系統選單中可開啟<strong>動態可變更新率（48Hz至180Hz）</strong>與<strong>HDR功能</strong>，且開啟HDR後畫面色彩並未發生異常偏差，整體實測並未虛標主要參數。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_220.jpg" /></p><h2>亮度色彩與工程模式面板檢測</h2><p>雖然最高亮度標稱約<strong>409尼特</strong>，但作者主觀感受其整體亮度偏暗，與筆電螢幕相仿；選單中雖有氛圍燈選項，但實機並無燈光，應是採用了公版驅動板。連接<strong>Mac系統</strong>測試時，文字邊緣略顯粗糙，但仍能順利開啟180Hz高刷與HDR；色彩調校則明顯<strong>偏黃</strong>，色準稍差，不過對於主打遊戲為主的定位尚可接受。最後作者進入工程模式檢驗，螢幕<strong>無壞點</strong>，採用的面板型號為<strong>MME270QHB-NF2</strong>，且為通電僅3小時的全新面板。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><p>500左右的杂牌27寸2K 180Hz HDR显示器是什么路数 明知山有虎</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/4koA0zmjVRo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><h1>值得閱讀的理由</h1><ul><li>了解市面上約五百元人民幣的超低價<strong>27吋 2K 180Hz</strong>雜牌電競螢幕是否真有宣稱的高規格。</li><li>深入解析平價螢幕在<strong>外觀做工、配件用料與接口配置</strong>上的妥協與實際表現。</li><li>掌握該螢幕在<strong>PC與Mac雙平台</strong>下的更新率、動態可變更新率（VRR）、色準及面板型號等實測細節。</li></ul><hr /><h1>摘要</h1><h2>開箱配件與做工細節</h2><p>作者開箱了一款近期市場上售價僅四百多至五百元人民幣的雜牌<strong>27吋 2K 180Hz</strong>電競顯示器。隨機附帶的DC變壓器功率僅有<strong>36W</strong>，顯得十分省電；配件包含一條DP傳輸線以及極其簡陋但為金屬材質的支架。機身背面貼有華強北風格的防拆易碎標籤，接口配備了音訊孔、一個<strong>DP接口</strong>、兩個<strong>HDMI接口</strong>、USB-A以及支援<strong>VESA 100</strong>壁掛規格，機身本體無法上下調整高度，僅能進行俯仰角度微調。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_105.jpg" /></p><h2>訊號輸出與高刷規格實測</h2><p>在連接測試中，使用HDMI線連接時，螢幕最高可穩定輸出至<strong>2K 144Hz</strong>；而換上DP線後，則能完全跑滿<strong>2K 180Hz</strong>的滿血狀態。螢幕表面帶有一點霧面低溫多晶矽的毛玻璃質感，在系統選單中可開啟<strong>動態可變更新率（48Hz至180Hz）</strong>與<strong>HDR功能</strong>，且開啟HDR後畫面色彩並未發生異常偏差，整體實測並未虛標主要參數。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_220.jpg" /></p><h2>亮度色彩與工程模式面板檢測</h2><p>雖然最高亮度標稱約<strong>409尼特</strong>，但作者主觀感受其整體亮度偏暗，與筆電螢幕相仿；選單中雖有氛圍燈選項，但實機並無燈光，應是採用了公版驅動板。連接<strong>Mac系統</strong>測試時，文字邊緣略顯粗糙，但仍能順利開啟180Hz高刷與HDR；色彩調校則明顯<strong>偏黃</strong>，色準稍差，不過對於主打遊戲為主的定位尚可接受。最後作者進入工程模式檢驗，螢幕<strong>無壞點</strong>，採用的面板型號為<strong>MME270QHB-NF2</strong>，且為通電僅3小時的全新面板。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><p>500左右的杂牌27寸2K 180Hz HDR显示器是什么路数 明知山有虎</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/4koA0zmjVRo/hqdefault.jpg"/>
+      <pubDate>2026-11-05T04:30:16.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[九头竹来了 拓竹多头闪切系统的H3C太能打了]]></title>
+      <link>https://www.youtube.com/watch?v=iOfPKcxuSw4</link>
+      <itunes:title><![CDATA[九头竹来了 拓竹多头闪切系统的H3C太能打了]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/iOfPKcxuSw4/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=iOfPKcxuSw4">https://www.youtube.com/watch?v=iOfPKcxuSw4</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解拓竹最新旗艦 H3C 的<strong>九頭閃切系統</strong>與 <strong>AMS 3H</strong>，見證多色切換時間如何縮短至僅需 6 秒。</li><li>掌握領先業界的<strong>可變線徑擠出機</strong>技術，探索 1.75mm 與 2.85mm 耗材、TPU 軟硬料及異徑噴嘴的一體成型混打實力。</li><li>一窺 <strong>CMYK 疊色列印</strong>帶來的色彩革命，以及支援刀切、燙金與繪圖等多元模組的全能<strong>3D 列印工作站</strong>應用。</li></ul><hr /><h1>摘要</h1><h2>九頭閃切系統與 AMS 3H 打造極致效能</h2><p>作者開箱並實測了被譽為「3D 列印工作站」的<strong>拓竹 H3C</strong>。這台機器搭載了整合式的 <strong>AMS 3H</strong> 供料系統，直接內建九個料盤倉位，並包含具備加熱至 85 度的雙烘乾系統。最令人矚目的是其<strong>多頭閃切系統（Swap-Tech）</strong>，機身配備了九組整齊排列的列印頭與獨立管線。閃切掛架具備預熱能力，系統會提前將即將使用的列印頭加熱至工作溫度，並透過活動掛架迅速接合，將換頭時間大幅壓縮至僅需 <strong>6 秒</strong>，同時保有 1400mm/s 移動速度與 25000 加速度的頂尖運動性能。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/iOfPKcxuSw4_209.jpg" /></p><h2>可變線徑擠出技術，實現軟硬料一體列印</h2><p>作者指出拓竹 H3C 的另一項革命性突破在於<strong>可變線徑擠出機</strong>。該擠出機內部採用雙凸輪結構配合永磁同步馬達，可主動調節夾持力，同時相容傳統 1.75mm 耗材與 2.85mm 粗線徑耗材。這項技術徹底解決了 <strong>TPU 75A</strong> 等超軟耗材容易卡料的難題，使軟料出料成功率大幅躍升。作者展示了長達 79 小時列印的專業級 3D 列印鞋與免組裝機械手錶，成功在同一模型中混打 1.75mm 與 2.85mm 線徑、不同硬度的 TPU 與支撐材料，甚至支援 0.2mm 至 0.8mm 不同口徑噴嘴的協同作業，真正實現<strong>軟硬一體成型</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/iOfPKcxuSw4_334.jpg" /></p><h2>五色疊印千色光彩，跨界擴充的多功能工作站</h2><p>在色彩表現上，拓竹推出了 <strong>PLA 彩色盤系列（CMYKW）</strong>，藉由極速換頭的優勢精準實現<strong>疊色列印</strong>，僅憑五種基礎顏色就能混出多達 1024 種色彩，而且廢料大幅減少，列印速度比傳統方式快上數倍。作者展示了細節極為細膩的立體彩色小鳥與醒獅模型，羽毛與漸變細節層次分明。此外，這台機器在作者連續測試 300 小時中完全無失誤，更具備高度擴展性，能將工具頭更換為<strong>刀切頭</strong>、<strong>冷燙金模組</strong>或<strong>畫筆頭</strong>等平面加工套裝，將 3D 列印機正式推進至全能型微製造工作站的全新境界。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/iOfPKcxuSw4_523.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=iOfPKcxuSw4">https://www.youtube.com/watch?v=iOfPKcxuSw4</a></p><p>九头竹来了 拓竹多头闪切系统的H3C太能打了</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/iOfPKcxuSw4/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=iOfPKcxuSw4">https://www.youtube.com/watch?v=iOfPKcxuSw4</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解拓竹最新旗艦 H3C 的<strong>九頭閃切系統</strong>與 <strong>AMS 3H</strong>，見證多色切換時間如何縮短至僅需 6 秒。</li><li>掌握領先業界的<strong>可變線徑擠出機</strong>技術，探索 1.75mm 與 2.85mm 耗材、TPU 軟硬料及異徑噴嘴的一體成型混打實力。</li><li>一窺 <strong>CMYK 疊色列印</strong>帶來的色彩革命，以及支援刀切、燙金與繪圖等多元模組的全能<strong>3D 列印工作站</strong>應用。</li></ul><hr /><h1>摘要</h1><h2>九頭閃切系統與 AMS 3H 打造極致效能</h2><p>作者開箱並實測了被譽為「3D 列印工作站」的<strong>拓竹 H3C</strong>。這台機器搭載了整合式的 <strong>AMS 3H</strong> 供料系統，直接內建九個料盤倉位，並包含具備加熱至 85 度的雙烘乾系統。最令人矚目的是其<strong>多頭閃切系統（Swap-Tech）</strong>，機身配備了九組整齊排列的列印頭與獨立管線。閃切掛架具備預熱能力，系統會提前將即將使用的列印頭加熱至工作溫度，並透過活動掛架迅速接合，將換頭時間大幅壓縮至僅需 <strong>6 秒</strong>，同時保有 1400mm/s 移動速度與 25000 加速度的頂尖運動性能。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/iOfPKcxuSw4_209.jpg" /></p><h2>可變線徑擠出技術，實現軟硬料一體列印</h2><p>作者指出拓竹 H3C 的另一項革命性突破在於<strong>可變線徑擠出機</strong>。該擠出機內部採用雙凸輪結構配合永磁同步馬達，可主動調節夾持力，同時相容傳統 1.75mm 耗材與 2.85mm 粗線徑耗材。這項技術徹底解決了 <strong>TPU 75A</strong> 等超軟耗材容易卡料的難題，使軟料出料成功率大幅躍升。作者展示了長達 79 小時列印的專業級 3D 列印鞋與免組裝機械手錶，成功在同一模型中混打 1.75mm 與 2.85mm 線徑、不同硬度的 TPU 與支撐材料，甚至支援 0.2mm 至 0.8mm 不同口徑噴嘴的協同作業，真正實現<strong>軟硬一體成型</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/iOfPKcxuSw4_334.jpg" /></p><h2>五色疊印千色光彩，跨界擴充的多功能工作站</h2><p>在色彩表現上，拓竹推出了 <strong>PLA 彩色盤系列（CMYKW）</strong>，藉由極速換頭的優勢精準實現<strong>疊色列印</strong>，僅憑五種基礎顏色就能混出多達 1024 種色彩，而且廢料大幅減少，列印速度比傳統方式快上數倍。作者展示了細節極為細膩的立體彩色小鳥與醒獅模型，羽毛與漸變細節層次分明。此外，這台機器在作者連續測試 300 小時中完全無失誤，更具備高度擴展性，能將工具頭更換為<strong>刀切頭</strong>、<strong>冷燙金模組</strong>或<strong>畫筆頭</strong>等平面加工套裝，將 3D 列印機正式推進至全能型微製造工作站的全新境界。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/iOfPKcxuSw4_523.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=iOfPKcxuSw4">https://www.youtube.com/watch?v=iOfPKcxuSw4</a></p><p>九头竹来了 拓竹多头闪切系统的H3C太能打了</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/iOfPKcxuSw4/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=iOfPKcxuSw4">https://www.youtube.com/watch?v=iOfPKcxuSw4</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解拓竹最新旗艦 H3C 的<strong>九頭閃切系統</strong>與 <strong>AMS 3H</strong>，見證多色切換時間如何縮短至僅需 6 秒。</li><li>掌握領先業界的<strong>可變線徑擠出機</strong>技術，探索 1.75mm 與 2.85mm 耗材、TPU 軟硬料及異徑噴嘴的一體成型混打實力。</li><li>一窺 <strong>CMYK 疊色列印</strong>帶來的色彩革命，以及支援刀切、燙金與繪圖等多元模組的全能<strong>3D 列印工作站</strong>應用。</li></ul><hr /><h1>摘要</h1><h2>九頭閃切系統與 AMS 3H 打造極致效能</h2><p>作者開箱並實測了被譽為「3D 列印工作站」的<strong>拓竹 H3C</strong>。這台機器搭載了整合式的 <strong>AMS 3H</strong> 供料系統，直接內建九個料盤倉位，並包含具備加熱至 85 度的雙烘乾系統。最令人矚目的是其<strong>多頭閃切系統（Swap-Tech）</strong>，機身配備了九組整齊排列的列印頭與獨立管線。閃切掛架具備預熱能力，系統會提前將即將使用的列印頭加熱至工作溫度，並透過活動掛架迅速接合，將換頭時間大幅壓縮至僅需 <strong>6 秒</strong>，同時保有 1400mm/s 移動速度與 25000 加速度的頂尖運動性能。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/iOfPKcxuSw4_209.jpg" /></p><h2>可變線徑擠出技術，實現軟硬料一體列印</h2><p>作者指出拓竹 H3C 的另一項革命性突破在於<strong>可變線徑擠出機</strong>。該擠出機內部採用雙凸輪結構配合永磁同步馬達，可主動調節夾持力，同時相容傳統 1.75mm 耗材與 2.85mm 粗線徑耗材。這項技術徹底解決了 <strong>TPU 75A</strong> 等超軟耗材容易卡料的難題，使軟料出料成功率大幅躍升。作者展示了長達 79 小時列印的專業級 3D 列印鞋與免組裝機械手錶，成功在同一模型中混打 1.75mm 與 2.85mm 線徑、不同硬度的 TPU 與支撐材料，甚至支援 0.2mm 至 0.8mm 不同口徑噴嘴的協同作業，真正實現<strong>軟硬一體成型</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/iOfPKcxuSw4_334.jpg" /></p><h2>五色疊印千色光彩，跨界擴充的多功能工作站</h2><p>在色彩表現上，拓竹推出了 <strong>PLA 彩色盤系列（CMYKW）</strong>，藉由極速換頭的優勢精準實現<strong>疊色列印</strong>，僅憑五種基礎顏色就能混出多達 1024 種色彩，而且廢料大幅減少，列印速度比傳統方式快上數倍。作者展示了細節極為細膩的立體彩色小鳥與醒獅模型，羽毛與漸變細節層次分明。此外，這台機器在作者連續測試 300 小時中完全無失誤，更具備高度擴展性，能將工具頭更換為<strong>刀切頭</strong>、<strong>冷燙金模組</strong>或<strong>畫筆頭</strong>等平面加工套裝，將 3D 列印機正式推進至全能型微製造工作站的全新境界。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/iOfPKcxuSw4_523.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=iOfPKcxuSw4">https://www.youtube.com/watch?v=iOfPKcxuSw4</a></p><p>九头竹来了 拓竹多头闪切系统的H3C太能打了</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/iOfPKcxuSw4/hqdefault.jpg"/>
+      <pubDate>2026-11-03T14:15:36.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[被人摘掉5090的350块雷电5显卡坞还送一堆好东西 捡垃圾]]></title>
+      <link>https://www.youtube.com/watch?v=sen-lJdbqZ0</link>
+      <itunes:title><![CDATA[被人摘掉5090的350块雷电5显卡坞还送一堆好东西 捡垃圾]]></itunes:title>
+      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/sen-lJdbqZ0/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=sen-lJdbqZ0">https://www.youtube.com/watch?v=sen-lJdbqZ0</a></p><h1>值得閱讀的理由</h1><ul><li>了解二手市場中被拆除高階顯示卡後的<strong>雷電5外接顯示卡塢</strong>具備哪些超高性價比的內建硬體配備。</li><li>掌握這款顯卡塢在介面設計上的優缺點，包含<strong>水冷散熱</strong>、<strong>850W電源</strong>以及特殊I/O背板對更換顯卡的限制。</li><li>探索雷電5<strong>菊鏈功能</strong>與多功能擴充應用，實測外接顯卡與<strong>U.2企業級固態硬碟</strong>的相容性與表現。</li></ul><hr /><h1>摘要</h1><h2>超值收購被拆解的雷電5外接顯卡塢</h2><p>作者分享了自己在二手市場以<strong>350元</strong>淘到的超划算設備，這原本是一款搭載RTX 5090的<strong>雷電5外接顯卡塢</strong>，因顯卡被AI使用者拆除而單獨售出。塢站內部附帶了全金屬<strong>240水冷排</strong>、雙風扇，以及一顆價值不斐的<strong>SFX 850W金牌全模組電源</strong>。不過該機器的硬傷在於顯卡I/O直接做在背板上，限制了更換其他顯卡的便利性，且PCIe x16插槽內部僅具備x8針腳。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/sen-lJdbqZ0_96.jpg" /></p><h2>實測安裝顯卡與雷電5菊鏈串接</h2><p>作者嘗試將<strong>AMD 9070 XT</strong>顯卡安裝進顯卡塢中，連接電腦後無需開關即可順暢點亮RGB燈效並直接識別。除了外接顯卡功能外，該塢站還提供千兆網孔、兩個USB-A介面，並支援<strong>雷電5菊鏈功能</strong>，可額外串接另一個雷電5設備，解決筆記型電腦介面稀缺的問題，通道頻寬在PCIe 4.0 x4下達到極高傳輸表現。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/sen-lJdbqZ0_165.jpg" /></p><h2>意想不到的企業級硬碟擴充應用</h2><p>除了作為顯示卡外接塢，作者還展示了這台設備的隱藏用法——透過PCIe轉接<strong>U.2企業級固態硬碟</strong>。實測插上後能直接被系統辨識出<strong>6.98TB</strong>的儲存空間，證明其憑藉雷電5的高速傳輸與自帶高規格供電，能勝任高性能外接儲存設備的擴充需求。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=sen-lJdbqZ0">https://www.youtube.com/watch?v=sen-lJdbqZ0</a></p><p>被人摘掉5090的350块雷电5显卡坞还送一堆好东西 捡垃圾</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/sen-lJdbqZ0/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=sen-lJdbqZ0">https://www.youtube.com/watch?v=sen-lJdbqZ0</a></p><h1>值得閱讀的理由</h1><ul><li>了解二手市場中被拆除高階顯示卡後的<strong>雷電5外接顯示卡塢</strong>具備哪些超高性價比的內建硬體配備。</li><li>掌握這款顯卡塢在介面設計上的優缺點，包含<strong>水冷散熱</strong>、<strong>850W電源</strong>以及特殊I/O背板對更換顯卡的限制。</li><li>探索雷電5<strong>菊鏈功能</strong>與多功能擴充應用，實測外接顯卡與<strong>U.2企業級固態硬碟</strong>的相容性與表現。</li></ul><hr /><h1>摘要</h1><h2>超值收購被拆解的雷電5外接顯卡塢</h2><p>作者分享了自己在二手市場以<strong>350元</strong>淘到的超划算設備，這原本是一款搭載RTX 5090的<strong>雷電5外接顯卡塢</strong>，因顯卡被AI使用者拆除而單獨售出。塢站內部附帶了全金屬<strong>240水冷排</strong>、雙風扇，以及一顆價值不斐的<strong>SFX 850W金牌全模組電源</strong>。不過該機器的硬傷在於顯卡I/O直接做在背板上，限制了更換其他顯卡的便利性，且PCIe x16插槽內部僅具備x8針腳。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/sen-lJdbqZ0_96.jpg" /></p><h2>實測安裝顯卡與雷電5菊鏈串接</h2><p>作者嘗試將<strong>AMD 9070 XT</strong>顯卡安裝進顯卡塢中，連接電腦後無需開關即可順暢點亮RGB燈效並直接識別。除了外接顯卡功能外，該塢站還提供千兆網孔、兩個USB-A介面，並支援<strong>雷電5菊鏈功能</strong>，可額外串接另一個雷電5設備，解決筆記型電腦介面稀缺的問題，通道頻寬在PCIe 4.0 x4下達到極高傳輸表現。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/sen-lJdbqZ0_165.jpg" /></p><h2>意想不到的企業級硬碟擴充應用</h2><p>除了作為顯示卡外接塢，作者還展示了這台設備的隱藏用法——透過PCIe轉接<strong>U.2企業級固態硬碟</strong>。實測插上後能直接被系統辨識出<strong>6.98TB</strong>的儲存空間，證明其憑藉雷電5的高速傳輸與自帶高規格供電，能勝任高性能外接儲存設備的擴充需求。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=sen-lJdbqZ0">https://www.youtube.com/watch?v=sen-lJdbqZ0</a></p><p>被人摘掉5090的350块雷电5显卡坞还送一堆好东西 捡垃圾</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/sen-lJdbqZ0/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=sen-lJdbqZ0">https://www.youtube.com/watch?v=sen-lJdbqZ0</a></p><h1>值得閱讀的理由</h1><ul><li>了解二手市場中被拆除高階顯示卡後的<strong>雷電5外接顯示卡塢</strong>具備哪些超高性價比的內建硬體配備。</li><li>掌握這款顯卡塢在介面設計上的優缺點，包含<strong>水冷散熱</strong>、<strong>850W電源</strong>以及特殊I/O背板對更換顯卡的限制。</li><li>探索雷電5<strong>菊鏈功能</strong>與多功能擴充應用，實測外接顯卡與<strong>U.2企業級固態硬碟</strong>的相容性與表現。</li></ul><hr /><h1>摘要</h1><h2>超值收購被拆解的雷電5外接顯卡塢</h2><p>作者分享了自己在二手市場以<strong>350元</strong>淘到的超划算設備，這原本是一款搭載RTX 5090的<strong>雷電5外接顯卡塢</strong>，因顯卡被AI使用者拆除而單獨售出。塢站內部附帶了全金屬<strong>240水冷排</strong>、雙風扇，以及一顆價值不斐的<strong>SFX 850W金牌全模組電源</strong>。不過該機器的硬傷在於顯卡I/O直接做在背板上，限制了更換其他顯卡的便利性，且PCIe x16插槽內部僅具備x8針腳。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/sen-lJdbqZ0_96.jpg" /></p><h2>實測安裝顯卡與雷電5菊鏈串接</h2><p>作者嘗試將<strong>AMD 9070 XT</strong>顯卡安裝進顯卡塢中，連接電腦後無需開關即可順暢點亮RGB燈效並直接識別。除了外接顯卡功能外，該塢站還提供千兆網孔、兩個USB-A介面，並支援<strong>雷電5菊鏈功能</strong>，可額外串接另一個雷電5設備，解決筆記型電腦介面稀缺的問題，通道頻寬在PCIe 4.0 x4下達到極高傳輸表現。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/sen-lJdbqZ0_165.jpg" /></p><h2>意想不到的企業級硬碟擴充應用</h2><p>除了作為顯示卡外接塢，作者還展示了這台設備的隱藏用法——透過PCIe轉接<strong>U.2企業級固態硬碟</strong>。實測插上後能直接被系統辨識出<strong>6.98TB</strong>的儲存空間，證明其憑藉雷電5的高速傳輸與自帶高規格供電，能勝任高性能外接儲存設備的擴充需求。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=sen-lJdbqZ0">https://www.youtube.com/watch?v=sen-lJdbqZ0</a></p><p>被人摘掉5090的350块雷电5显卡坞还送一堆好东西 捡垃圾</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/sen-lJdbqZ0/hqdefault.jpg"/>
+      <pubDate>2026-11-01T04:30:07.000Z</pubDate>
+    </item></channel>
+</rss>
