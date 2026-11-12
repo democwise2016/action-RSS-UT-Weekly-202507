@@ -1,26 +1,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
   <channel>
     <title><![CDATA[老张是大佬 裝 電腦[YT+]]]></title>
-    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</link>
+    <link>undefined</link>
     <image>
-      <url>https://yt3.ggpht.com/ytc/AIdro_lLFI1pwSj-Pn9k67nIIUJHwZRvxp_V7mdkfsv6bmNL=s88-c-k-c0x00ffffff-no-rj</url>
+      <url>https://fastly.picsum.photos/id/336/800/800.jpg?hmac=rYoQLZDtSk6b23iL-sJDkqE3iatGa0oZWq2UF3zDPJI</url>
       <title>老张是大佬 裝 電腦[YT+]</title>
-      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</link>
+      <link>undefined</link>
     </image>
     <language>en-us</language>
-    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A" rel="self" type="application/rss+xml"/>
+    <atom:link href="undefined" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[老张是大佬 裝 電腦[YT+]]]></copyright>
     <itunes:author><![CDATA[老张是大佬 裝 電腦[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      我是老张，大家好<br />
+      Failed to parse feed: Status code 404<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      我是老张，大家好<br />
+      Failed to parse feed: Status code 404<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC4p6VCir9d3dkJUu89c0m9A</a>
       ]]>
@@ -28,70 +28,6 @@
     <itunes:owner>
       <itunes:name><![CDATA[老张是大佬 裝 電腦[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_lLFI1pwSj-Pn9k67nIIUJHwZRvxp_V7mdkfsv6bmNL=s88-c-k-c0x00ffffff-no-rj"/>
-<item>
-      <title><![CDATA[1135G7 11代Xe核显黑苹果MacPad V2 整活儿]]></title>
-      <link>https://www.youtube.com/watch?v=3UV9nwgYBHo</link>
-      <itunes:title><![CDATA[1135G7 11代Xe核显黑苹果MacPad V2 整活儿]]></itunes:title>
-      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/3UV9nwgYBHo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><h1>值得閱讀的理由</h1><ul><li>深入瞭解如何將搭載第 11 代 Intel Core i5-1135G7 處理器的二合一 Windows 平板改裝成支援觸控的黑蘋果「MacPad」。</li><li>一窺全網首見成功驅動 Intel 第 11 代 Xe 核顯於 4K 內建螢幕，並開啟 HiDPI 縮放與 Metal 硬體加速的技術細節與實際體驗。</li><li>清楚揭示目前第 11 代核顯黑蘋果的驅動現況、影片解碼限制與觸控筆等 Bug，提供客觀且冷靜的避坑參考。</li></ul><hr /><h1>摘要</h1><h2>硬體規格與原廠系統檢視</h2><p>作者收到粉絲寄來的一款具備支架的 13.4 吋 <strong>Surface 形態平板電腦</strong>，該機配備<strong>雙雷電 Type-C</strong>、指紋識別、SD 卡插槽與四聲道揚聲器。在原廠 Windows 系統下，檢視其搭載了 <strong>Intel Core i5-1135G7</strong> 處理器（4 核心 8 執行緒，內建 80EU Iris Xe 顯示核心）以及 16GB 高頻 4267 MT/s 的板載四通道記憶體，魯大師跑分逼近 68 萬分；更令人驚艷的是其搭載了一塊細膩的 <strong>4K 解析度 60Hz 螢幕</strong>與完全開放的 BIOS 介面。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_96.jpg" /></p><h2>黑蘋果 macOS 安裝與 4K 內顯驅動奇蹟</h2><p>為達成觸控 MacPad 的目標，作者花費了整整一週時間調校引導，成功在該平板上安裝了 macOS 系統。此機成為市場上極罕見成功驅動 <strong>Intel 第 11 代 Xe 核顯</strong>、並在 <strong>4K 內建螢幕</strong>上正常啟用 <strong>HiDPI 縮放</strong>的案例。系統成功識別出 1.5GB 顯存並完整開啟 <strong>Metal 2 硬體加速</strong>，包含音量調節、螢幕亮度、四聲道音效、Wi-Fi 6、藍牙與 Siri 均能正常運作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_230.jpg" /></p><h2>系統缺陷與多媒體硬解現況</h2><p>作者指出，由於蘋果官方從未真正為第 11 代核顯推出正式驅動，目前該驅動屬於測試版本移植，因此存在不少硬體編解碼缺陷。當前版本<strong>不支援 HEVC 與 VDA 硬體解碼</strong>，導致部分線上串流影片播放可能遇到問題，QuickTime 螢幕錄製也偶發錯誤；但本機 <strong>MP4 影片播放</strong>依然順暢，且內建的四揚聲器聲音表現相當宏亮出色。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_300.jpg" /></p><h2>觸控體驗、性能跑分與雙系統優勢</h2><p>在操作體驗上，這台 MacPad 完美支援<strong>螢幕觸控滑動</strong>，作者展示了用手指在 macOS 介面上順暢滑動抖音與介面的趣味場景。經 <strong>Geekbench 6</strong> 測試，單核得分 1717 分、多核得分 5718 分，整體運算效能已<strong>媲美蘋果自家 M1 晶片的 MacBook Pro</strong>。此外，機器透過 OpenCore 完美保留了 <strong>Windows 與 macOS 雙系統一鍵切換</strong>，實用性極高。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_380.jpg" /></p><h2>購買建議與觸控筆遺憾</h2><p>儘管整機表現優異且市售價格低廉，作者仍理性呼籲觀眾切勿盲目跟風追高，因為目前驅動仍有許多 <strong>Bug</strong> 尚待完善，且稍後更意外發現<strong>觸控筆在 macOS 下無法正常使用</strong>。對於不具備折騰經驗的用戶來說，仍建議冷靜觀望後續驅動的修復與更新。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><p>1135G7 11代Xe核显黑苹果MacPad V2 整活儿</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/3UV9nwgYBHo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><h1>值得閱讀的理由</h1><ul><li>深入瞭解如何將搭載第 11 代 Intel Core i5-1135G7 處理器的二合一 Windows 平板改裝成支援觸控的黑蘋果「MacPad」。</li><li>一窺全網首見成功驅動 Intel 第 11 代 Xe 核顯於 4K 內建螢幕，並開啟 HiDPI 縮放與 Metal 硬體加速的技術細節與實際體驗。</li><li>清楚揭示目前第 11 代核顯黑蘋果的驅動現況、影片解碼限制與觸控筆等 Bug，提供客觀且冷靜的避坑參考。</li></ul><hr /><h1>摘要</h1><h2>硬體規格與原廠系統檢視</h2><p>作者收到粉絲寄來的一款具備支架的 13.4 吋 <strong>Surface 形態平板電腦</strong>，該機配備<strong>雙雷電 Type-C</strong>、指紋識別、SD 卡插槽與四聲道揚聲器。在原廠 Windows 系統下，檢視其搭載了 <strong>Intel Core i5-1135G7</strong> 處理器（4 核心 8 執行緒，內建 80EU Iris Xe 顯示核心）以及 16GB 高頻 4267 MT/s 的板載四通道記憶體，魯大師跑分逼近 68 萬分；更令人驚艷的是其搭載了一塊細膩的 <strong>4K 解析度 60Hz 螢幕</strong>與完全開放的 BIOS 介面。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_96.jpg" /></p><h2>黑蘋果 macOS 安裝與 4K 內顯驅動奇蹟</h2><p>為達成觸控 MacPad 的目標，作者花費了整整一週時間調校引導，成功在該平板上安裝了 macOS 系統。此機成為市場上極罕見成功驅動 <strong>Intel 第 11 代 Xe 核顯</strong>、並在 <strong>4K 內建螢幕</strong>上正常啟用 <strong>HiDPI 縮放</strong>的案例。系統成功識別出 1.5GB 顯存並完整開啟 <strong>Metal 2 硬體加速</strong>，包含音量調節、螢幕亮度、四聲道音效、Wi-Fi 6、藍牙與 Siri 均能正常運作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_230.jpg" /></p><h2>系統缺陷與多媒體硬解現況</h2><p>作者指出，由於蘋果官方從未真正為第 11 代核顯推出正式驅動，目前該驅動屬於測試版本移植，因此存在不少硬體編解碼缺陷。當前版本<strong>不支援 HEVC 與 VDA 硬體解碼</strong>，導致部分線上串流影片播放可能遇到問題，QuickTime 螢幕錄製也偶發錯誤；但本機 <strong>MP4 影片播放</strong>依然順暢，且內建的四揚聲器聲音表現相當宏亮出色。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_300.jpg" /></p><h2>觸控體驗、性能跑分與雙系統優勢</h2><p>在操作體驗上，這台 MacPad 完美支援<strong>螢幕觸控滑動</strong>，作者展示了用手指在 macOS 介面上順暢滑動抖音與介面的趣味場景。經 <strong>Geekbench 6</strong> 測試，單核得分 1717 分、多核得分 5718 分，整體運算效能已<strong>媲美蘋果自家 M1 晶片的 MacBook Pro</strong>。此外，機器透過 OpenCore 完美保留了 <strong>Windows 與 macOS 雙系統一鍵切換</strong>，實用性極高。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_380.jpg" /></p><h2>購買建議與觸控筆遺憾</h2><p>儘管整機表現優異且市售價格低廉，作者仍理性呼籲觀眾切勿盲目跟風追高，因為目前驅動仍有許多 <strong>Bug</strong> 尚待完善，且稍後更意外發現<strong>觸控筆在 macOS 下無法正常使用</strong>。對於不具備折騰經驗的用戶來說，仍建議冷靜觀望後續驅動的修復與更新。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><p>1135G7 11代Xe核显黑苹果MacPad V2 整活儿</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/3UV9nwgYBHo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><h1>值得閱讀的理由</h1><ul><li>深入瞭解如何將搭載第 11 代 Intel Core i5-1135G7 處理器的二合一 Windows 平板改裝成支援觸控的黑蘋果「MacPad」。</li><li>一窺全網首見成功驅動 Intel 第 11 代 Xe 核顯於 4K 內建螢幕，並開啟 HiDPI 縮放與 Metal 硬體加速的技術細節與實際體驗。</li><li>清楚揭示目前第 11 代核顯黑蘋果的驅動現況、影片解碼限制與觸控筆等 Bug，提供客觀且冷靜的避坑參考。</li></ul><hr /><h1>摘要</h1><h2>硬體規格與原廠系統檢視</h2><p>作者收到粉絲寄來的一款具備支架的 13.4 吋 <strong>Surface 形態平板電腦</strong>，該機配備<strong>雙雷電 Type-C</strong>、指紋識別、SD 卡插槽與四聲道揚聲器。在原廠 Windows 系統下，檢視其搭載了 <strong>Intel Core i5-1135G7</strong> 處理器（4 核心 8 執行緒，內建 80EU Iris Xe 顯示核心）以及 16GB 高頻 4267 MT/s 的板載四通道記憶體，魯大師跑分逼近 68 萬分；更令人驚艷的是其搭載了一塊細膩的 <strong>4K 解析度 60Hz 螢幕</strong>與完全開放的 BIOS 介面。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_96.jpg" /></p><h2>黑蘋果 macOS 安裝與 4K 內顯驅動奇蹟</h2><p>為達成觸控 MacPad 的目標，作者花費了整整一週時間調校引導，成功在該平板上安裝了 macOS 系統。此機成為市場上極罕見成功驅動 <strong>Intel 第 11 代 Xe 核顯</strong>、並在 <strong>4K 內建螢幕</strong>上正常啟用 <strong>HiDPI 縮放</strong>的案例。系統成功識別出 1.5GB 顯存並完整開啟 <strong>Metal 2 硬體加速</strong>，包含音量調節、螢幕亮度、四聲道音效、Wi-Fi 6、藍牙與 Siri 均能正常運作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_230.jpg" /></p><h2>系統缺陷與多媒體硬解現況</h2><p>作者指出，由於蘋果官方從未真正為第 11 代核顯推出正式驅動，目前該驅動屬於測試版本移植，因此存在不少硬體編解碼缺陷。當前版本<strong>不支援 HEVC 與 VDA 硬體解碼</strong>，導致部分線上串流影片播放可能遇到問題，QuickTime 螢幕錄製也偶發錯誤；但本機 <strong>MP4 影片播放</strong>依然順暢，且內建的四揚聲器聲音表現相當宏亮出色。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_300.jpg" /></p><h2>觸控體驗、性能跑分與雙系統優勢</h2><p>在操作體驗上，這台 MacPad 完美支援<strong>螢幕觸控滑動</strong>，作者展示了用手指在 macOS 介面上順暢滑動抖音與介面的趣味場景。經 <strong>Geekbench 6</strong> 測試，單核得分 1717 分、多核得分 5718 分，整體運算效能已<strong>媲美蘋果自家 M1 晶片的 MacBook Pro</strong>。此外，機器透過 OpenCore 完美保留了 <strong>Windows 與 macOS 雙系統一鍵切換</strong>，實用性極高。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/3UV9nwgYBHo_380.jpg" /></p><h2>購買建議與觸控筆遺憾</h2><p>儘管整機表現優異且市售價格低廉，作者仍理性呼籲觀眾切勿盲目跟風追高，因為目前驅動仍有許多 <strong>Bug</strong> 尚待完善，且稍後更意外發現<strong>觸控筆在 macOS 下無法正常使用</strong>。對於不具備折騰經驗的用戶來說，仍建議冷靜觀望後續驅動的修復與更新。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=3UV9nwgYBHo">https://www.youtube.com/watch?v=3UV9nwgYBHo</a></p><p>1135G7 11代Xe核显黑苹果MacPad V2 整活儿</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/3UV9nwgYBHo/hqdefault.jpg"/>
-      <pubDate>2026-11-08T04:30:09.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[500左右的杂牌27寸2K 180Hz HDR显示器是什么路数 明知山有虎]]></title>
-      <link>https://www.youtube.com/watch?v=4koA0zmjVRo</link>
-      <itunes:title><![CDATA[500左右的杂牌27寸2K 180Hz HDR显示器是什么路数 明知山有虎]]></itunes:title>
-      <itunes:author><![CDATA[老张是大佬]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/4koA0zmjVRo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><h1>值得閱讀的理由</h1><ul><li>了解市面上約五百元人民幣的超低價<strong>27吋 2K 180Hz</strong>雜牌電競螢幕是否真有宣稱的高規格。</li><li>深入解析平價螢幕在<strong>外觀做工、配件用料與接口配置</strong>上的妥協與實際表現。</li><li>掌握該螢幕在<strong>PC與Mac雙平台</strong>下的更新率、動態可變更新率（VRR）、色準及面板型號等實測細節。</li></ul><hr /><h1>摘要</h1><h2>開箱配件與做工細節</h2><p>作者開箱了一款近期市場上售價僅四百多至五百元人民幣的雜牌<strong>27吋 2K 180Hz</strong>電競顯示器。隨機附帶的DC變壓器功率僅有<strong>36W</strong>，顯得十分省電；配件包含一條DP傳輸線以及極其簡陋但為金屬材質的支架。機身背面貼有華強北風格的防拆易碎標籤，接口配備了音訊孔、一個<strong>DP接口</strong>、兩個<strong>HDMI接口</strong>、USB-A以及支援<strong>VESA 100</strong>壁掛規格，機身本體無法上下調整高度，僅能進行俯仰角度微調。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_105.jpg" /></p><h2>訊號輸出與高刷規格實測</h2><p>在連接測試中，使用HDMI線連接時，螢幕最高可穩定輸出至<strong>2K 144Hz</strong>；而換上DP線後，則能完全跑滿<strong>2K 180Hz</strong>的滿血狀態。螢幕表面帶有一點霧面低溫多晶矽的毛玻璃質感，在系統選單中可開啟<strong>動態可變更新率（48Hz至180Hz）</strong>與<strong>HDR功能</strong>，且開啟HDR後畫面色彩並未發生異常偏差，整體實測並未虛標主要參數。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_220.jpg" /></p><h2>亮度色彩與工程模式面板檢測</h2><p>雖然最高亮度標稱約<strong>409尼特</strong>，但作者主觀感受其整體亮度偏暗，與筆電螢幕相仿；選單中雖有氛圍燈選項，但實機並無燈光，應是採用了公版驅動板。連接<strong>Mac系統</strong>測試時，文字邊緣略顯粗糙，但仍能順利開啟180Hz高刷與HDR；色彩調校則明顯<strong>偏黃</strong>，色準稍差，不過對於主打遊戲為主的定位尚可接受。最後作者進入工程模式檢驗，螢幕<strong>無壞點</strong>，採用的面板型號為<strong>MME270QHB-NF2</strong>，且為通電僅3小時的全新面板。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><p>500左右的杂牌27寸2K 180Hz HDR显示器是什么路数 明知山有虎</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/4koA0zmjVRo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><h1>值得閱讀的理由</h1><ul><li>了解市面上約五百元人民幣的超低價<strong>27吋 2K 180Hz</strong>雜牌電競螢幕是否真有宣稱的高規格。</li><li>深入解析平價螢幕在<strong>外觀做工、配件用料與接口配置</strong>上的妥協與實際表現。</li><li>掌握該螢幕在<strong>PC與Mac雙平台</strong>下的更新率、動態可變更新率（VRR）、色準及面板型號等實測細節。</li></ul><hr /><h1>摘要</h1><h2>開箱配件與做工細節</h2><p>作者開箱了一款近期市場上售價僅四百多至五百元人民幣的雜牌<strong>27吋 2K 180Hz</strong>電競顯示器。隨機附帶的DC變壓器功率僅有<strong>36W</strong>，顯得十分省電；配件包含一條DP傳輸線以及極其簡陋但為金屬材質的支架。機身背面貼有華強北風格的防拆易碎標籤，接口配備了音訊孔、一個<strong>DP接口</strong>、兩個<strong>HDMI接口</strong>、USB-A以及支援<strong>VESA 100</strong>壁掛規格，機身本體無法上下調整高度，僅能進行俯仰角度微調。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_105.jpg" /></p><h2>訊號輸出與高刷規格實測</h2><p>在連接測試中，使用HDMI線連接時，螢幕最高可穩定輸出至<strong>2K 144Hz</strong>；而換上DP線後，則能完全跑滿<strong>2K 180Hz</strong>的滿血狀態。螢幕表面帶有一點霧面低溫多晶矽的毛玻璃質感，在系統選單中可開啟<strong>動態可變更新率（48Hz至180Hz）</strong>與<strong>HDR功能</strong>，且開啟HDR後畫面色彩並未發生異常偏差，整體實測並未虛標主要參數。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_220.jpg" /></p><h2>亮度色彩與工程模式面板檢測</h2><p>雖然最高亮度標稱約<strong>409尼特</strong>，但作者主觀感受其整體亮度偏暗，與筆電螢幕相仿；選單中雖有氛圍燈選項，但實機並無燈光，應是採用了公版驅動板。連接<strong>Mac系統</strong>測試時，文字邊緣略顯粗糙，但仍能順利開啟180Hz高刷與HDR；色彩調校則明顯<strong>偏黃</strong>，色準稍差，不過對於主打遊戲為主的定位尚可接受。最後作者進入工程模式檢驗，螢幕<strong>無壞點</strong>，採用的面板型號為<strong>MME270QHB-NF2</strong>，且為通電僅3小時的全新面板。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><p>500左右的杂牌27寸2K 180Hz HDR显示器是什么路数 明知山有虎</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/4koA0zmjVRo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><h1>值得閱讀的理由</h1><ul><li>了解市面上約五百元人民幣的超低價<strong>27吋 2K 180Hz</strong>雜牌電競螢幕是否真有宣稱的高規格。</li><li>深入解析平價螢幕在<strong>外觀做工、配件用料與接口配置</strong>上的妥協與實際表現。</li><li>掌握該螢幕在<strong>PC與Mac雙平台</strong>下的更新率、動態可變更新率（VRR）、色準及面板型號等實測細節。</li></ul><hr /><h1>摘要</h1><h2>開箱配件與做工細節</h2><p>作者開箱了一款近期市場上售價僅四百多至五百元人民幣的雜牌<strong>27吋 2K 180Hz</strong>電競顯示器。隨機附帶的DC變壓器功率僅有<strong>36W</strong>，顯得十分省電；配件包含一條DP傳輸線以及極其簡陋但為金屬材質的支架。機身背面貼有華強北風格的防拆易碎標籤，接口配備了音訊孔、一個<strong>DP接口</strong>、兩個<strong>HDMI接口</strong>、USB-A以及支援<strong>VESA 100</strong>壁掛規格，機身本體無法上下調整高度，僅能進行俯仰角度微調。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_105.jpg" /></p><h2>訊號輸出與高刷規格實測</h2><p>在連接測試中，使用HDMI線連接時，螢幕最高可穩定輸出至<strong>2K 144Hz</strong>；而換上DP線後，則能完全跑滿<strong>2K 180Hz</strong>的滿血狀態。螢幕表面帶有一點霧面低溫多晶矽的毛玻璃質感，在系統選單中可開啟<strong>動態可變更新率（48Hz至180Hz）</strong>與<strong>HDR功能</strong>，且開啟HDR後畫面色彩並未發生異常偏差，整體實測並未虛標主要參數。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202507/file-cache/4koA0zmjVRo_220.jpg" /></p><h2>亮度色彩與工程模式面板檢測</h2><p>雖然最高亮度標稱約<strong>409尼特</strong>，但作者主觀感受其整體亮度偏暗，與筆電螢幕相仿；選單中雖有氛圍燈選項，但實機並無燈光，應是採用了公版驅動板。連接<strong>Mac系統</strong>測試時，文字邊緣略顯粗糙，但仍能順利開啟180Hz高刷與HDR；色彩調校則明顯<strong>偏黃</strong>，色準稍差，不過對於主打遊戲為主的定位尚可接受。最後作者進入工程模式檢驗，螢幕<strong>無壞點</strong>，採用的面板型號為<strong>MME270QHB-NF2</strong>，且為通電僅3小時的全新面板。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=4koA0zmjVRo">https://www.youtube.com/watch?v=4koA0zmjVRo</a></p><p>500左右的杂牌27寸2K 180Hz HDR显示器是什么路数 明知山有虎</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/4koA0zmjVRo/hqdefault.jpg"/>
-      <pubDate>2026-11-05T04:30:16.000Z</pubDate>
-    </item></channel>
+    <itunes:image href="https://fastly.picsum.photos/id/336/800/800.jpg?hmac=rYoQLZDtSk6b23iL-sJDkqE3iatGa0oZWq2UF3zDPJI"/>
+</channel>
 </rss>
